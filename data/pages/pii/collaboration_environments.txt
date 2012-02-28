@@ -1,0 +1,53 @@
+
+===== Collaboration environments in PII =====
+
+There seem to be three different types of workspaces for people to collaborate in:
+  - [[:pii:collaboration_environments#Informal | An Informal, easy to use, low threshold environment to do the work.]]
+  - [[:pii:collaboration_environments#historical | A formal, Historic environment that captures the history of the decisions made. ]]
+  - [[:pii:collaboration_environments#latest | The formal “Knowledge base” where the latest agreed artefacts are available to browse. ]]
+
+{{:spii_collaboration_environments.jpg?600|}}
+
+===== Informal ====
+
+The PIT usually has some internal work item list. That can be retrieved directly from the overarching progress tracking tool, or it can be another process where the status get synchronized. Either way, the PIT has a set of tasks that is a subset of the entire task list.
+
+In order do work on those tasks, a couple of things need to be in place:
+^ Requirement ^ moscow ^
+| A way to share documents | Must have |
+| Ability to assign tasks to team members. | Must have |
+| Guidelines and templates on how to create the core deliverables so that they fit into the rest of the documents. | Must have |
+| Guidelines and templates on how to create the metadata like adoption and revision plans. | Must have |
+| Information on where to put the deliverables when they are finished. | Must have |
+| Communication mechanism for the team members. This depends on the team but in general would include email lists and automatic updates from the shared documents library. | Must have |
+| A way to schedule meetings | Musy have |
+| Store, share and track action items | Must have |
+| Version tracking on the shared documents | Should have, this can also be solved by process. |
+| “check-out” process on the shared documents so only one person can alter the documents at a time. | Should have, This can also be solved by process. |
+
+==== Historical ====
+
+It is extremely important to be able to track back WHY decisions were made. Being able to will prevent working groups to spin around in circles and reinventing wheels.
+
+The easiest way to achieve this outcome is to implement blogs where decisions are captured.
+
+Blog posts are by it's very nature time stamped and there is much technology available for people to use them, both from an authors perspective as for a reader. There are very useful tools to help authors in writing/updating posts with spell checking, write posts off-line and publish them when people get into the office, etc. For the reader it's possible to subscribe to updates, place comments to which the author or other readers can respond, etc.
+
+Every group in the PII should have a blog and would need to be encouraged to keep it up to date. 
+
+The [[:share:architecture:share_architecture#PII Configuration|PII Configuration]] allows the [[:general:roles#PII Admin]] to specify which blogs are available withing the SPII. The [[:share:architecture:share_architecture#spii automation|SPII Automation]] will use that list to:
+  * Publish an overview of evailable blogs on the [[:pii:contacts|Contacts page]].
+  * Collect a monthly digest across the PII and send to an email distribution list. (Depending on the organisation, this can be the entire organisation or on a subscription basis)
+
+==== Latest ====
+
+This is obviously what it’s all about: A single place where people can find the current standards, job aids, Guidelines, etc.
+
+It would be great to be able to use the blog posts as the source to generate the “knowledge base” content from. If this is not possible however, double keying might be the only solution.
+
+This environment also includes a WIKI style publishing ground for people to publish “Random” pieces of knowledge. Personal blogs for employees can also be an option. The idea is to encourage people to share their knowledge. If they have been struggling with something, chances are that someone will run into the same issue(s) as well. Everyone in the organization should be encouraged to contribute, even (or actually especially), in small quantities. 
+
+Key to this is that the information can be found again and that the authors get rewarded. A ranking system found in most Web2.0 or Enterprise 2.0 systems can cater for this. The employee performance review could include a line item to state the peer raking of the employees contributed content. 
+
+Please refer to [[:share:introduction|"Share"]] for more information, including an [[:share:architecture:standards_library|example standards library]] can be found here.
+

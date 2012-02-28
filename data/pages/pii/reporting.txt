@@ -1,0 +1,9 @@
+
+===== Reporting =====
+
+Reporting is a very powerfull tool to drive the right behaviour. But you can also do a lot of damage if not used properly. It's very important to use reporting to a good use and to stimulate more improvements.
+
+By simply reporting on the absolute number without the story behind the numbers is likely to make things worse. 
+
+
+<< TODO: >>

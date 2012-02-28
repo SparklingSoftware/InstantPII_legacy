@@ -1,0 +1,11 @@
+===== SEPG (Group) =====
+
+The SEPG is a corporate level group tasked with the co-ordination and support of all software process improvement teams and activities across the whole organisation. The SEPG should act the central driving force for software process improvement, and the focal point for   process improvement effort across the organization. Due to its significant role in software process improvement, special attention should be given to the formation of the SEPG (Dorsey & McDonald 1996) both in terms of its organisational structure, membership, and responsibilities. 
+
+Responsibilities: 
+  * Co-ordinating all process improvement activities across the organization, and obtaining and maintaining the support of all levels of management. 
+  * Nominating and recruiting members of the software process improvement teams (Software PITs), and co-ordinating their activities. (The SEPG does not have to perform all the process improvement activities themselves, but should provide support and co-ordination to the process improvement teams) 
+  * Acting as the “keepers” of the process. They should have the responsibility of the maintaining the process assets,  encouraging/soliciting the feedback of the process, planning and driving the process improvement efforts, co-ordinating the process improvement teams, and assuring synergy across the various software process improvement teams (Software PITs) 
+  * Assuming responsibility for developing/selecting/installing process-related methods, techniques and tools within the corporation. 
+  * Maintaining collaborative working relationships with software engineers. This is especially important to design, plan for, and install new practices and technologies. 
+

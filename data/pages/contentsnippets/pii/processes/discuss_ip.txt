@@ -1,0 +1,63 @@
+
+Assuming the IP was indeed valid and has passed the screening, it gets added to the SEPG agenda. The easiest way to do this is to have an agenda item “Screened IPs” that discusses all IPs that have been screened. This list should be retrievable from the progress tracking tool.
+Prioritisation is a stepped process:
+
+1) Is the IP valid?
+
+Or “Is this something that we should work on?” 
+As it has been screened, this should be valid. The SEPG can however have a different view as the person who has screened it. 
+If it is it proceeds to the next step. If it doesn’t, the IP is closed while specifying the reason.
+The submitter should get a notification of the status change.
+
+2) What PIT should work on it?
+
+For most IPs it will be obvious what PIT should be working on it. If it is, the PIT gets assigned right from the start.
+
+3) Is the priority of the screened IP high enough that we should work on it immediately?
+
+Assuming there are already tasks assigned to the PIT, does the “Screened” IP needs to be actioned on instead of the IP currently “In Progress”?
+
+If so, the IP will be progressed into “In analysis”.
+If not, the IP goes into the backlog for consideration at a later time.
+
+The backlog needs to be reviewed on a periodically so that way the improvements are not forgotten. The submitter of the IP should be notified of the outcome of the revision, regardless of a change in status as a result of it.
+
+**The formal description of the process:**
+  - The SEPG discusses the "Screened" improvement. There are three possible outcomes: "Closed", "Backlog" or "In analysis".
+    - "Closed". The SEPG didn't think the improvement made sense to implement. There could be various reasons to result into this, like doubling up on work, lack of priority, not achievable, etc.
+    - "Backlog". The SEPG does think the improvement is a good idea, although no PIT has time to start working on it and it's not urgent enough to stop working on the current improvements.
+    - "In Analysis". The improvement is a good idea and it's urgent enough to start immediately on it. Potentially, another improvement will need to wait until this has been implemented.
+
+
+<ditaa>
+
+-------------------------------------------------------------------------------------------------------
+Progress Tracking                                                                                                    
+  /--------------------\                    /-----------------------\   /--------------------------\
+  |                    |                    |                       |   |                          |
+  | IP status is "New" |                    | IP status is "Backlog"|   |IP Status is "In Analysis |
+  |                    |                    |                       |   |                          |
+  \--------+-----------/                    \-----------------------/   \--------------------------/
+           |                                          ^                            ^    
+-----------|------------------------------------------|----------------------------|-------------------
+SEPG       v                                          |N                           |
+   /---------------\    /---------------\    /--------+---------\                  |
+   | {c}           |    |               |    | {c}              |Y                 |
+   | Good idea?    +--->| Assign to PIT +--->| Change PIT Prio? +------------------+
+   |               |Y   |               |    |                  |
+   \-------+-------/    \---------------/    \------------------/
+           |N                         
+-----------|-------------------------------------------------------------------------------------------
+           v                                         
+  +----------------+                                
+  |{s}             |                                
+  |   Recycle bin  |                                
+  |                |
+  +----------------+                                
+                                                                                             
+-------------------------------------------------------------------------------------------------------
+
+</ditaa>
+
+
+

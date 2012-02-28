@@ -1,0 +1,36 @@
+Now, here is the interesting thing: The above already happens at pretty much all companies as its human nature to do a couple of things:
+
+  - Whinge about the company in general. Line managers are usually the first targets, then the resources or rather the lack thereof, then the customers or other downstream targets.
+  - People fix small roadblocks in their everyday life as it makes them more productive.
+  - They "hang out" with their peers during lunch, social drinks, etc and discuss these roadblocks.
+
+Except for the whinging (which is just a way to let out some steam I think), this behaviour already contributes to the above mentioned goals.
+
+The downside of the traditional approach is that it is happening chaotic and inefficient. The improvements that people are making on their own tend to only move a couple of desks further, and some improvements are counter efficient as one might cancel the other because of lack of overview. Or, someone is doing "Resume driven" initiatives, which are the worse of them all. 
+
+The SPII is here to align the efforts and prevent the symptoms like above.
+
+The SPII aligns all improvements and gets the most out of them.
+
+Above everything it connects people and creates environments where people feel save and rewarded to contribute to the greater good.
+
+The core of the proposed SPII is a group that consists of representatives from various areas of the company. This group is traditionally called the Software Engineering Process Group (SEPG) and would focus on Software Engineering, but there is no reason why we cannot extend this principle to also include Architecture, Support, Infrastructure, etc. If it improves Quality and Productivity, just go for it!
+
+Successful SPIIs have the SEPG meet periodically; let's say every other week.
+
+The key to this is that the SEPG Members represent all their peers, so how to achieve this I hear you say? Thanks for asking!
+
+{{:interaction_between_sepg_pit_msg_and_twg.png?600|}}
+
+Each [[:general:glossary#process area|Process Area]] that is represented by the individual SEPG Members, has a respective [[:general:glossary#process improvement team |Process Improvement Team (PIT)]] that looks after that particular area. The SEPG member is the so called [[:general:roles#PIT Lead |PIT Lead]]. The team members are all practitioners in the IT organisation and are not funded by the SPII. The time and effort they spend on improvements needs to be alongside their normal day job.
+
+The philosophy behind that is that people need to be great in their day job and contribute to the greater good as part of that. This will certainly separate the men from the boys, as excellent software engineers will be keen to help their peers, while below par IT employees will just do their day job and just focus on their own project or cubical.
+
+I'm not going to keep false pretences: This is going to be hard to maintain. Do not underestimate the forces involved. The following reasons will be used to "Hide" in the improvement organisation instead of doing their day job:
+
+-	"I didn't meet the deadlines because I had to work for the SPII".
+-	" <<TODO>>"
+
+A constant effort is needed to keep the communities going. To support them in achieving progress as that is the biggest motivator there is. 
+
+

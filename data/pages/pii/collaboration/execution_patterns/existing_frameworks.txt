@@ -1,0 +1,9 @@
+===== Aligning the organisation with existing frameworks =====
+
+Over the years many person years are spend on process improvements (In fact: it’s what you’re reading now! ) and that has led to some great and some not-so-great initiatives. 
+
+It would therefore be very obvious for enterprises to align themselves with these initiatives. A surprisingly high number of enterprises have not (consciously) chosen to adopt these frameworks or processes. Or they have, but not fully or correct.
+
+Every which way, for a PIT to stand up and suggest the organisation should follow a well-known framework like ITIL, BABOK, etc might raise some political struggles. Whilst everyone is most likely to be happy to move forward with the obvious direction, some conventional thinkers would immediately raise the question: “Why haven’t we done this earlier?” Interesting thought, but totally irrelevant as we should be looking at the future and not the history. Be careful to not step on anyone’s toes though! 
+
+

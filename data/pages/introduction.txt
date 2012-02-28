@@ -1,0 +1,48 @@
+<nodisp>
+<spii_meta>
+  <status>Live</status>
+  <hierarchy view="pii" parent='' />
+</spii_meta>
+</nodisp>
+~~NOCACHE~~
+
+====== About Instant-PII ======
+
+A Process Improvement Infrastructure (PII) is everything that enables organisations to efficiently improve their software processes. An PII typically includes:
+  * A workspace for teams to collaborate on improvements.
+  * A set of processes describing how to reach agreements amongst practitioners.
+  * A progress tracking mechanism.
+  * A way to reporting on the progress and status.
+  * A single location to store the latest [[general:glossary#job-aids|job-aids]].
+
+This wiki explains how to "instantly" create your own instance of a streamlined PII, based on 20+ years of experiences and much [[:pii:research|academic research]]. It provides all the documentation, processes, pitfalls and anti-patterns to be successful in the implementation.
+
+If you are interested in hiring experienced consultants to help you implement the infrastructure and/or spark the culture change that enables high performant organisations, please find more information at the [[http://www.sparklingsoftware.com.au|Sparkling Software]] website.
+
+So, to jump into it, let's start of with the basics as it's something that's easily missed! 
+
+We believe the purpose of process improvements is:
+**Improving the way people work; Allowing them to be more productive and to increase the quality of their work.**
+
+You can do this the lazy or the proper way. The first is a matter of creating a set of documents on the intranet and telling people that they will adhere to the standards if they want to keep their bonus. This isn't very effective and the biggest downside is the lack of buy in from the practitioners. As a result they will find workarounds, game reporting, etc and you end up with a culture that is the exact opposite to what you are after. In fact, this approach will actually make their work harder, not easier.
+
+A better way is to engage the practitioners throughout the creation of the standards. The more engagement the better. This will increase the buy in and will contribute to a culture of continuous improvements, where it becomes second nature to constantly think about improving the way people work. Obviously there is a balance here as the business wouldn't be deliverying if everyone was only working on improvements.
+
+To summerise:
+Making process improvements is NOT a matter of putting documents on the organisation intranet. Creating documents is NOT the end goal!
+
+We need to change the way people work, by whatever means. Big documents being the least favourable. Short and simple rationales work well combined with an overload of training!
+
+This website contains two areas:
+
+==== PII ====
+
+The theoretical description of the PII. It start of with the goals and benefits before describing the overview of how the PII actually works in terms of people and processes. This can be found under collaboration.
+
+Please find more information (in the suggested order of reading):
+  * [[:pii:collaboration|How the collaboration in the PII works]]
+  * [[:general:roles|More details about the roles in the PII]]
+  * [[:pii:processes|Drill into the processes]]
+  * (Anti) patterns
+
+As everything (well... Most of it :-) The rest is common sense and innovative thinking!) is backed up by research the [[:pii:reearch|Research]] area lists a selection of most relevant academic artefacts. 

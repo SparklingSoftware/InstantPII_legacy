@@ -1,0 +1,93 @@
+
+===== The life of an Improvement Proposal (IP) =====
+
+The process below describes the life of an improvement. Please use the process as a guide as it's more important to focus on outcomes than on following the process to the letter. 
+
+There are, however some clever steps and approvals embedded in the process, so think well before skipping steps. The reason for some of the steps is to prevent time waste and rework. Please see below for more information about the risks of these shortcuts.
+
+==== Overview ====
+
+{{page>contentsnippets:spii:processes:spii_process_overview}}
+
+
+==== Raise an "Improvement Proposal" ====
+
+Everything starts with someone raises an Idea for an improvement. Something called an [[:general:glossary#improvement proposal|Improvement Proposal (IP)]]. The person in the [[:general:roles#spii admin|SPII Admin]] role will receive a notification of the submission.
+
+Anyone in the organisation can raise an idea (Improvement Proposal) and it doesn't matter how much details are specified. Even a one-liner can suffice as a proposel. Raising an idea should be really light weight, so everyone can easily do it.
+
+An electronic form assist the [[:general:roles#practitioner|Practitioner]] in submitting the idea. The form should allow for changes, while keeping track of the history, so that all information is kept. A nice to have is a status field that show the current status of the IP. The EForm needs to easily discoverable / acessable by putting links all over the SPII to the form. 
+
+Raising IPs is done for two reasons:
+  * Reporting. (As the organisation is paying for people to participate in the SPII, we need to report progress.)
+  * Keeping history 
+
+(Btw: A symptom of management adoption is when the CIO/CTO would raise an IP. This proves two things: He/She feels the SPII indeed represents the entire organization and he/she trusts the SPII organization to make responsible decisions. (See the [[:spii:goals and benefits|goals]] of SPII).)
+
+=== When to raise an "Improvement Proposal" and when to "Just do it" ====
+
+Because there is some process behind it (and therefore effort), the interesting question arises: When do I need to go through the hassles of going through the proces?
+
+The answer is not a clear cut I'm afraid. Based on a couple of examples:
+
+Raise an IP:
+  * Obviously new Improvements, like introducing new systems, etc
+  * Process alterations
+  * Improvements that can touch other competencies
+  * Accidental improvements to the standards library. This happens when something/someone outside of the SPII has improved something that can be used as a standard going forward. Raising an IP in this case is not for claiming credit, it's for keeping track of history.
+  * Updating a template from version 2 to version 3. (Implying big changes, like overhoaling)
+
+Just do it:
+  * Minor revisions to existing standards, like typo's, broken links, minor tweaks, etc. (It's irrelevant whether it happens as part of normal revision cycles or not)
+  * Updates to branding
+  * Updating a template from version 2.1 to 2.2. (Implying minor changes, like changing the order of paragraphs, adding one or two paragraphs, etc.)
+
+In general, there are two questions assisting in the decission whether or not to raise an IP:
+  - Does this improvement impact others, so that the SEPG members need to agree?
+  - Do we need to work on the adoption << TODO: Link to adoption plan >> of this improvement?
+
+==== The process for raising and screening an IP  =====
+
+Because everyone can raise an IP, the idea needs to be screened for validity. The SPII admin will therefore look at the content of the submitted IP and ask one of the SEPG members to “Screen” it. 
+
+While reading there is a strong urge to spring into action and to start working on the initiative immediately. That is not the point just yet. The goal of “Screening” is to have a quality check on the IPs before they are discussed in the SEPG meeting. These checks include checking for doubles or very similar, is it complete, can everyone understand the purpose?
+
+The SEPG Member can obviously do what he/she needs to do to get into a discussable state. Probably consult the submitter of this IP, consult the submitter of similar, etc. 
+
+Or the result of the screening is to close it, for instance when its not a valid proposal, the proposal just doesn't make sense or the improvement proposal already exists, etc. A low priority is NOT a valid reason for closing it. This is not up to the person screening the IP, but up to the SEPG to decide. Furthermore, even though it might be low priority now, it might rise to the top over time.
+
+{{page>contentsnippets:spii:processes:raise_ip}}
+
+==== The process for the SEPG to discuss a screened IP  =====
+
+{{page>contentsnippets:spii:processes:discuss_ip}}
+
+==== The process for the PIT to analyse an IP  =====
+
+{{page>contentsnippets:spii:processes:analyse_ip}}
+
+==== The process for the PIT to work on an IP  =====
+
+{{page>contentsnippets:spii:processes:work_on_ip}}
+
+==== The process for the SEPG to sign off on an IP  =====
+
+{{page>contentsnippets:spii:processes:sign_off_on_ip}}
+
+==== The process for the SPII Admin to upload the standards =====
+
+{{page>contentsnippets:spii:processes:upload_standard}}
+
+
+==== Risks in short-cuts ====
+
+Some common short-cuts and the risks are:
+
+=== Starting on an improvement before the SEPG has discussed the "Screened" ===
+
+The follow SEPG members collectively know many initiatives across the organisation, more than any individual SEPG Member will possibly know. Chances are that there are already improvements on their way to address the improvement at hand. Getting the SEPG to agree on the screened IP is not only getting them to agree that the improvement is a good idea, it's also to prevent doubling up on work.
+
+=== Skipping the analysis and jumping straight into "In progress" ===
+
+The analysis phase is to determine the list of deliverables so that all SEPG members know exactly what the results are going to look like. (It's the second time they are signing up to agreeing with the end result, the first being after the screening). If the PIT is certain that the other PITs are going to agree, by all means: Skip this step. If however the direction is not clear or is contraversial, don't go forward without the rest of the SEPG signing off on the deliverables. It's seriously frustrating for everyone to disagree after multiple months of effort.
+

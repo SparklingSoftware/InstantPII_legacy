@@ -1,0 +1,8 @@
+
+The following sitemap explains the structure for the portal:
+
+{{:spii_portal_sitemap.png?600|}} 
+
+An example of how this could be implemented:
+
+{{:standards_portal_mockup.png?600|}} 

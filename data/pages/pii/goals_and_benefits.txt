@@ -1,0 +1,55 @@
+
+===== Goals and Benefits =====
+
+** Benefits of implementing this SPII **
+  * [[:pii:goals_and_benefits#Increase ROI of Process Improvement efforts]]
+  * [[:pii:goals_and_benefits#Streamlined collaboration platform]]
+  * [[:pii:goals_and_benefits#Aligns initiatives so that they amplify each other|Aligns initiatives so that they amplify each other]]
+  * [[:pii:goals_and_benefits#Return on investment|Focus on what matters to your customers]]
+  * [[:pii:goals_and_benefits#Increased Engagement and Enablement|Increased Engagement and Enablement, the most important metrics for employee performance]]
+
+=== Increase ROI of Process Improvement efforts ===
+
+Most companies spend 5-10% on process improvements. If we don't align the various individual improvements, they will contradict each other, mitigating each others full potential. 
+
+This SPII will help align the improvements, so we get the best "Bang for the buck" of the time and money spend on Process Improvements, increasing the business performance.
+
+The bottom-up approach increases adoption rates considerably without the need for governance bodies.
+
+=== Streamlined Collaboration platform ===
+
+The Software Process Improvement Infrastructure (SPII) is a collection of tools and processes that enables efficient collaboration on process improvements. The result is an ongoing increase of business performance and quality.
+
+It empowers experts across the organisation to take lead and implement improvements within an appoval processes to ensure strategic alignment. With power comes responsibility and it's therefore also up to these experts to see the improvement through until it's fully adopted throughout the organisation. Training is therefore a major component of implementing SPII.
+
+=== Aligns initiatives so that they amplify each other ===
+
+In general, people want to improve how they do their work. If these improvements are not aligned they will balance each other out. If two people work on the same improvement (without knowing about it), they would end up with slightly different results still causeing confusement and stalling adoption of both.
+
+With the SPII, the two improvements are aligned, removing duplication and delivering one result. No confusion means easy adoption.
+
+
+=== Return on Investment ===
+
+The reason for process improvements is to save money, which directly impacts the bottom line. The initiatives need to deliver a measurable outcome in terms of increased quality and improved performance.
+
+By reporting on quality and procuctivity across the organisation, the groups in the SPII are kept focussed on ROI and will not end up writing standards for standards sake.
+
+The is always a need for process improvements and keeping the SPII alive, but the law of dominishing returns applies to this as well. Reporting and commong sense will determinde the degree of support.
+
+=== Increased Engagement and Enablement ===
+
+The increased enablement for people to improve their own work environment will also be reflected in their engagement. It even has a flow-on effect, as the experts become advocads for improving processes in stead of complaining about them.
+
+Many studies show that increased engagement and enablement improve employee performance.
+
+
+
+
+
+
+
+
+
+
+

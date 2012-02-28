@@ -1,0 +1,4 @@
+
+===== Practitioner =====
+
+A practitioner is someone working within the Software Delivery organisation, actually doing the work :-).
