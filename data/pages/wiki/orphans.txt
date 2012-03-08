@@ -1,3 +1,5 @@
 
-~~ORPHANSWANTED:all~~      
+===== Orphaned Pages =====
+
+~~ORPHANSWANTED:orphans~~      
 

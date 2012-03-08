@@ -11,4 +11,6 @@
 [[:general:frequently asked questions|FAQ]]
 [[:general:glossary|Glossary]]
 [[:general:todo|Todo]]
-[[:wiki:orphans|Orphans]]
+
+**Admin**
+[[:wiki:admin|Admin pages]]
