@@ -46,3 +46,5 @@ Please find more information (in the suggested order of reading):
   * (Anti) patterns
 
 As everything (well... Most of it :-) The rest is common sense and innovative thinking!) is backed up by research the [[:pii:reearch|Research]] area lists a selection of most relevant academic artefacts. 
+
+
