@@ -74,6 +74,10 @@ See [[:spii:msg|Management Steering Group]]
 
 See [[:pii:pit|Process Improvement Team]]
 
+==== Process Area ====
+
+A Process Area is the scope to which a particular group is focussing on. "Requirements Gathering" is an example of a process area that clearly defined the scope. It's important to determine and articulate Process Areas, so the the people participating in the PII know who's responsible for what area.
+
 ==== Process Improvement Team ====
 
 See [[:pii:pit|Process Improvement Team]]

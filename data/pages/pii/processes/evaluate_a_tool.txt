@@ -1,11 +1,14 @@
-~~NOCACHE~~
 
 <nodisp>
+
    <spii_meta>
       <title>Tools evaluation process</title>
       <hierarchy view="Process" parent="" />
    </spii_meta>
-</nodisp
+
+</nodisp>
+
+~~NOCACHE~~
 
 
 ===== Tool evaluation process =====
@@ -22,15 +25,13 @@ Everyone will always start with the requirements right? Wrong!
 
 What you will find is the moment you start talking about tools, EVERYONE jumps into solution mode. It is surprisingly hard to have a requirements discussion around tooling. By starting at the beginning however, you pave the road ahead. It will deliver a platform to have healthy debates of the purpose of the tools, why are we using it, how does it tie in with the other standards, etc.
 
-The outcome will be a list in a text document that can be put up to the PIT and potentially the SEPG for sign off, depending on the scale of the evaluation. For a small tool used by only one Process Area, you would probably only request sign-off from the PIT. For the centralised test management tool, you would without doubt request it from the SEPG. Either way, we need to close off the requirements phase completely. 
+The outcome will be a list in a text document that can be put up to the [[:general:glossary#PIT|PIT]] and potentially the [[:general:glossary#SEPG|SEPG]] for sign off, depending on the scale of the evaluation. For a simple tool used by only one [[:general:glossary#Process Area|Process Area]], you would probably only request sign-off from the PIT. For the centralised test management tool, you would without doubt request it from the SEPG. Either way, we need to close off the requirements phase completely by getting all involved to agree of the list of requirements. Everyone needs to be clear that changing the requirements after sign-off can be done, but requires much effort from all involved again as it means getting sign-off again...
 
-We need to make sure there is consensus before moving on.
-
-It is important to note that the requirements are solely based on the Software Processes. Price, Politics, etc should not be part of this list. Which is great as it will prevent many distractions!
+It is important to note that the requirements are solely based on end-user outcomes. Price, Politics, etc should not be part of this requirements list. Which is great as it will prevent many distractions! 
 
 ==== Tool evaluation ====
 
-During the requirements phase many tools keep getting mentioned and now is the time to evaluate them. Out of the entire list of available options (up to 30 or so), create a shortlist of most likely contenders. On the basis of the requirements, most of them usually drop off from the list and you’ll be left with a handful.
+Without doubt, many tools will be mentioneded during the requirements phase and now is the time to evaluate them. Out of the entire list of available options (Which can be massive), create a shortlist of most likely contenders. This shouldn't be too hard, as on the basis of the requirements, many options usually drop off from the list and you’ll be left with a handful. It comes down to reducing effort as much as you can without loosing trust you didn't remove one of the winners. Unfortunately this balance is one a case-by-case basis
 
 The evaluation is not just a paper exercise. The evaluation includes actually installing and running the application. If it’s impossible to have it running in your own organisation ask the vendor for references so you can see it working on within that organisation. 
 
