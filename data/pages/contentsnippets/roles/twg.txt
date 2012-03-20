@@ -1,0 +1,16 @@
+
+The Technical Working Groups (TWG) are formed as needed to undertake some process development or improvement task (e.g.,
+develop and pilot a standard process for conducting code inspections). Often led by a member of the SEPG and made up
+of part-time subject matter experts. Teams are dissolved once their task has been completed.
+
+The TWG are often funded by the [[:glossary#msg|MSG]] and allow the MSG to determine the strategic directions by allocating funding to rappidly mature certain processes areas.
+
+A TWG is created on a per-project basis and has a project manager, pre-determined scope, deliverables, budget, deadlines, etc. So there is a huge contrast as to the "normal" non-funded [[:glossary#SEPG|SEPG]] world.
+
+The TWG reports fincanials and progress to the MSG, but deliveres to the SEPG. The SEPG needs to sign-off on the deliverables so that the TWG can report it as Done to the MSG. The MSG will need to trust the SEPG to deliver according to promis. After all the SEPG put forward the business case!
+
+The MSG set priorities by allocating funding and can set high level requirements will go through the SEPG for approval (Although as the MSG is paying for it, these requirements tend to be copied one-to-one :-)). The reason for this approval is that the MSG actually has to specify WHY the requirements are important and why they help the organisation go better and faster. Besides forcing management to think about the requirements before jumping into solution mode, it also creates a common understanding why management feels passionate about something. The SEPG can then work with those requirements to make sure the solution is optimised for all stakeholders, practitioners and managers alike.
+
+
+
+

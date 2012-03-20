@@ -1,0 +1,18 @@
+===== MSG (Group) =====
+
+(Quoted from Zahran [(Zahran 1998)])
+
+The Management Steering Group (also sometimes called Steering Committee, Process Improvement Council, or Executive 
+Improvement Team) is a policy-making body of a group of senior and line managers who develops the organisation’s overall strategy for   software process strategy and monitors its progress. The MSG meets periodically to translate corporate policies into actions and align the SPI programme priorities and direction accordingly. 
+
+Responsibilities: 
+  * Setting strategic direction for SPI activities 
+  * Reviewing the results of the of the software process assessments 
+  * Approving the formation of the software process improvement teams (PITs)
+  * Approving the operating plans of, and set priorities for the various software PITs 
+  * Monitoring and overseeing the progress of the software PITs 
+  * Helping obtain sponsorship and resourcing for the software PITs 
+  * Conducting ongoing policy oversight, resource and process management 
+  * Negotiating with higher levels of management and corporate planning organisations 
+  * Integration and consensus building among different software PITs 
+

@@ -1,0 +1,38 @@
+===== SPII Admin ======
+
+=== Description ===
+
+The SPII Admin is responsible for keeping the SPII run smoothly and efficiently. By encouraging and supporting the people participating in NAVIGATE, the theshold is lowered for participants to contribute to the communties. 
+
+=== Goals / Responsibilities ===
+
+^ Goals / Responsibilities ^
+| Enable the participants to be well informed |
+| Train and provide guidance to participants of the SPII processes. (Apply where it makes sense) |
+| Maintain standards library |
+| Maintain group membership for people |
+| Maintain collaboration tools |
+| Keep the information up to date (with the correct branding, etc) |
+| Report metrics to the SEPG and greater SPII |
+| Send reminders to participants |
+| Responsible for the maintenance of the IT Systems |
+
+=== The following processes used by this role: ===
+
+** Keep the information up to date **
+
+** Maintain the standards library **
+
+[[:processes:add_standard_to_library| Adding a standard to the standards library]]
+
+
+
+
+
+
+
+
+
+
+
+

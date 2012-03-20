@@ -1,0 +1,27 @@
+
+=== Adding standards ===
+
+When the SEPG approves of a standard, it needs to be added to the standards library. There are a couple of types of artefacts that can be added.
+
+  - Text. These are straightforward as they can be entered straight into the DokuWiki editor.
+  - Text with process maps. These are straightforward in that the text can be netered into the DokuWiki editor, the linked process maps (Visio) can be included by using the Visio plugin for DokuWiki.
+  - Text with Diagrams. If the diagrams are simple, we can use the Graphviz plugin to design our diagrams. If they are harder a SVG image can be included into the text. (SVG as that provides the ability to include clickable links to the image)
+  - PDF Documents. Shown using the PDF plugin. 
+  - Other binary documents. A screenshot as part of a text document that the user can click on and links off to the actual file. 
+
+<ditaa>
+
+  /-------------\  /--------------\  /--------------\  /----------------------------\  /--------------\  /-----------------------\
+  | (1)         |  | (2)          |  | (3)          |  | (4)                        |  | (5)          |  | (6)                   |
+->| Add content +->| Add Adoption +->| Set revision +->| Link front-end to standard +->| Announce     +->| Write email to        |
+  | to library  |  | plan         |  | frequency    |  | so the user can find it    |  | new standard |  | improvement submitter |
+  \-------------/  \--------------/  \--------------/  \----------------------------/  \--------------/  \-----------------------/
+
+</ditaa>
+
+  - Create the artefact in the library (the backend). In our case that is a matter of creating a new page and adding the content following the principles above. Because the standards library has a template defined, the default structure is already setup when creating a new page. The naming convention is STD000001 - [STANDARD NAME].
+  - Create the page for the adoption plan (Naming convention: AP000001 - [STANDARD NAME]), include a link to the adoption plan in the standard and vise versa.
+  - Add the standard to the list of standards in the front-end, so that it can be found and used by the end users.
+  - Add a post to the SEPG blog added standard, thereby announcing it to the SEPG.
+  - Send confirmation to the person that raised the [[:general:glossary#IP|IP]] that it's finished.
+
