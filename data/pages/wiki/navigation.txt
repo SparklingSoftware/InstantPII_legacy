@@ -1,16 +1,16 @@
+
 **About SPII**
 [[:introduction|Introduction]]
-[[:pii:goals_and_benefits|Goals and Benefits]]
-[[:pii:research|Supporting research]]
-[[:pii:collaboration|Collaboration]]
+[[:goals and benefits:goals and benefits|Goals and Benefits]]
+[[:research:research|Supporting research]]
+[[:collaboration:collaboration|Collaboration]]
 [[:general:roles|Roles]]
-[[:pii:processes|Processes]]
-[[:pii:downloads|Downloads]]
+[[:processes:processes|Processes]]
+[[:downloads:downloads|Downloads]]
 
 **General**
 [[:general:frequently asked questions|FAQ]]
 [[:general:glossary|Glossary]]
-[[:general:todo|Todo]]
 
 **Admin**
 [[:wiki:admin|Admin pages]]

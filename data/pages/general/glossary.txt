@@ -3,7 +3,7 @@
 
 ==== Adoption Plan ====
 
-See [[:pii:adoption plan|Adoption plan]]
+See [[processes:adoption plan|Adoption plan]]
 
 ===== B =====
 
@@ -15,7 +15,7 @@ See [[:general:glossary#Process Improvement Team|Process Improvement Team]]
 
 ==== Community Of Practice ====
 
-<< TODO >>
+[[:todo]]
 
 Within this group following roles exist:
   * [[:general:roles#COP Member|COP Member]]
@@ -60,11 +60,11 @@ See [[:general:glossary#Improvement Proposal|Improvement Proposal]]
 
 ==== Management Steering Group ====
 
-See [[:spii:msg|Management Steering Group]]
+See [[:general:roles#msg (group)|Management Steering Group]]
 
 ==== MSG ====
 
-See [[:spii:msg|Management Steering Group]]
+See [[:general:roles#msg (group)|Management Steering Group]]
 
 ===== N =====
 
@@ -74,7 +74,7 @@ See [[:spii:msg|Management Steering Group]]
 
 ==== PIT ====
 
-See [[:pii:pit|Process Improvement Team]]
+See [[:general:roles#msg (group)|Management Steering Group]]
 
 ==== Process Area ====
 
@@ -82,7 +82,7 @@ A Process Area is the scope to which a particular group is focussing on. "Requir
 
 ==== Process Improvement Team ====
 
-See [[:pii:pit|Process Improvement Team]]
+See [[:general:roles#PIT (Group)|Process Improvement Team (Group)]]
 
 Within this group following roles exist:
   * [[:general:roles#PIT Member]]
@@ -94,14 +94,9 @@ Within this group following roles exist:
 
 ==== Revision Plan ====
 
-See [[:pii:revision plan|Revision plan]]
+See [[:processes:revision plan|Revision plan]]
+
 ===== S =====
-
-==== Satellite Communities / SPII / SEPG ====
-
-These are the communities that have implemented parts of "Share" and are using it to improve their software delivery processes. They can both be collaborating with the Global ALM Community to contribute to the Global ALM Standards Library, or they can download a local clone of the Global ALM Standards Libraries and tailor it for their own use without contributing back to the global community.
-
-The communities can be within an organisation or across in the form of after-hour sessions for instance.
 
 ==== SEPG ====
 
@@ -111,17 +106,17 @@ See [[:pii:sepg|Software Engineering Process Group]]
 
 See [[:pii:sepg|Software Engineering Process Group]]
 
-==== Software Process Improvement Infrastructure ====
+==== Process Improvement Infrastructure ====
 
-See [[:Introduction|Software Process Improvement Infrastructure Overview]] 
+See [[:Introduction|Process Improvement Infrastructure Overview]] 
 
-==== SPII ====
+==== PII ====
 
-See [[:general:glossary#Software Process Improvement Infrastructure| Software Process Improvement Infrastructure]]
+See [[:general:glossary#Process Improvement Infrastructure| Process Improvement Infrastructure]]
 
-==== SPII Group ====
+==== PII Groups ====
 
-The various groups within the SPII. For instance: 
+The various groups within the PII. For instance: 
   * [[:general:glossary#SEPG| SEPG]]
   * [[:general:glossary#PIT| PIT]]
   * [[:general:glossary#MSG| MSG]]
@@ -143,18 +138,17 @@ As you can see, the types are quite diverse, so the definition is pretty much: "
 
 ==== Standards library ====
 
-The portal that contains the [[general:glossary#standard| Standards]]
+The library that contains the [[general:glossary#standard| Standards]]. This can be a wiki, portal or an entire custom build application. The main purpose is to maintain and publish the standards for consumption by everyone.
 
 ===== T =====
 
 ==== Technical Working Group ====
 
-See [[:pii:twg|Technical Working Group]]
+See [[:general:roles#twg (group)|Technical Working Group]]
 
 ==== TWG ====
 
-See [[:spii:twg|Technical Working Group]]
-
+See [[:general:roles#twg (group)|Technical Working Group]]
 
 
 ===== U =====

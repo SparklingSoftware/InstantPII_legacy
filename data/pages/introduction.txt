@@ -19,7 +19,7 @@ A Process Improvement Infrastructure (PII) is everything that enables organisati
 Or as Zahran [(Zahran, 1998)] put it:
 “An organisational schema with defined roles and assigned responsibilities capable of handling the software process management and process improvement activities”.
 
-This wiki explains how to "instantly" create your own instance of a streamlined PII, based on 20+ years of experiences and much [[:pii:research|academic research]]. It provides all the documentation, processes, pitfalls and anti-patterns to be successful in the implementation.
+This wiki explains how to "instantly" create your own instance of a streamlined PII, based on 20+ years of experiences and much [[:research:research|academic research]]. It provides all the documentation, processes, pitfalls and anti-patterns to be successful in the implementation.
 
 If you are interested in hiring experienced consultants to help you implement the infrastructure and/or spark the culture change that enables high performant organisations, please find more information at the [[http://www.sparklingsoftware.com.au|Sparkling Software]] website.
 
@@ -44,9 +44,9 @@ This website contains two areas:
 The theoretical description of the PII. It start of with the goals and benefits before describing the overview of how the PII actually works in terms of people and processes. This can be found under collaboration.
 
 Please find more information (in the suggested order of reading):
-  * [[:pii:collaboration|How the collaboration in the PII works]]
+  * [[:collaboration:collaboration|How the collaboration in the PII works]]
   * [[:general:roles|More details about the roles in the PII]]
-  * [[:pii:processes|Drill into the processes]]
+  * [[:processes:processes|Drill into the processes]]
   * (Anti) patterns
 
 As everything (well... Most of it :-) The rest is common sense and innovative thinking!) is backed up by research the [[:pii:reearch|Research]] area lists a selection of most relevant academic artefacts. 

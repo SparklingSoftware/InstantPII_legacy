@@ -41,6 +41,6 @@ It’s a good idea to create a baseline of the current processes first.
 ==== Improving informal communication across competencies. ====
 
 
-
+[[:todo]]
 
 
