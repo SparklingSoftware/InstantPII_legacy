@@ -42,7 +42,9 @@ For more information see:{{page>contentsnippets:general:external_links#ALM Commu
 
 ==== Improvement Proposal ====
 
-<< TODO >>
+An "Improvement Proposal" is a artefact that describes the proposed to change to improve the organisation. This can be through an improved standard, but more times than not actually something else!
+
+
 
 ==== IP ====
 

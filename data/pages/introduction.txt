@@ -1,6 +1,7 @@
 <nodisp>
 <spii_meta>
   <status>Live</status>
+  <revision_frequency>180</revision_frequency>
   <hierarchy view="pii" parent='' />
 </spii_meta>
 </nodisp>
@@ -14,6 +15,9 @@ A Process Improvement Infrastructure (PII) is everything that enables organisati
   * A progress tracking mechanism.
   * A way to reporting on the progress and status.
   * A single location to store the latest [[general:glossary#job-aids|job-aids]].
+
+Or as Zahran [(Zahran, 1998)] put it:
+“An organisational schema with defined roles and assigned responsibilities capable of handling the software process management and process improvement activities”.
 
 This wiki explains how to "instantly" create your own instance of a streamlined PII, based on 20+ years of experiences and much [[:pii:research|academic research]]. It provides all the documentation, processes, pitfalls and anti-patterns to be successful in the implementation.
 
