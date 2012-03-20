@@ -1,0 +1,99 @@
+
+===== Collaboration in the Process Improvement Infrastructure =====
+
+In order to achieve process improvements in stead of gaining a stale document library, many people need to be involved and whoever's involved to be able to have their voice heard. Furthermore, to make good progress and not have to re-iterate the same discussions this collaboration needs to be structured.
+
+The information below gives an example of how to structure your improvement initiative to enable the above.
+
+The suggested structure isn't new. It has been proposed by Carnegie Melon in the early Nineties. In fact, you might know an outcome of this structure is it's heavily used in CMMI initiatives! 
+
+[[:research:research|More information about the research behind the PII]]
+
+==== Organisation ====
+
+The proposed organisational structure looks like this:
+
+{{:interaction_between_sepg_pit_msg_and_twg.png?600|SPII Team interactions}}
+
+As you can see, it involves the creation of so called Process Improvement Teams (PITs). Interestingly enough, they exist in many companies already. The positive nature of people makes them form small pockets of likeminded employees to try to improve their process area.
+
+The Carnegie Melon guys and girls realised this and suggested to formalise them and create an overarching forum that consists of the leads of each of the PITs and is called Software Engineering Process Group (SEPG). The name might not be accurate of what you are trying to achieve (It is most likely going to cover more than just software engineering), but as it's used all over the literature it will be used as is throughout this wiki. Please fill in any name/abbreviation to specify your scope as you like. Keeping the name does mean instant buy-in from people who are familliar with it though!
+
+This overarching forum instantly becomes a very powerfull body because of the following reasons:
+  * They represent a big portion of the organisation which means that requests for funding will be taken seriously.
+  * They can work non funded, hence cannot easily be shut down under polical power.
+  * This group is resilliant to organisational change as it's cross hierarchy by nature.
+  * A sign of maturity is when the it becomes a vocal group and is asked by management for advice.
+
+Typically the SEPG meetings occur every 2 weeks with the PITs meeting in the alternate week. So that what's gets decided in the PIT meeting can be discussed by the SEPG in the next week.
+
+PITs should idealy be between 4 and 12 people. An SEPG meeting with less than 4 should not be making decissions, while bigger than 10-15 gets really hard to manage and will drag on too long.
+
+These PIT and SEPG meetings are all non funded. Upper management needs to agree that employees can spend a fraction of their time doing process improvements. The results of the process improvement initiative need to show the effectiveness of the time spend.
+
+There is however a way to apply for funding and that's via something called the Management Steering Group (MSG). This forum is typically made up of senior masnagers, like CIO, CTO, SDLC Managers, etc. The MSG meets every quarter to go over the status and results and also allows the SEPG to present a Business Case for funding. Thwo interesging things happen in that event:
+  * The business case needs to be well written and fact based.
+  * The MSG doesn't have to go look for second opponions to validate the request. It has been submitted by a group that is represented by a big portion of the organisation.
+
+Long story short: Depending on the track record of the SEPG, the MSG can decide on the business case pretty quickly.
+
+If the MSG gives their tick of approval, the funding isn't going to be handed over to the PITs. In stead, a project is formed. This project is called Technical Working Group (TWG) and has all the features if a formal project, like a project manager, deliverables, deadlines, etc.
+
+The TWG will be delivering to the SEPG (usually one PIT becomes the formal delivery point). This way, the SEPG becomes completely responsible for the results that come out of the money spend. If the TWG delivers according to specs, the organisation should see the benefits as described in the business case.
+
+==== What's involved in process improvements ====
+
+The core of making process improvements is to get everyone to agree on the best process. In order to get those agreements, many things need to happen:
+
+  - [[:collaboration:collaboration#Everyone needs to understand each other's background|Everyone needs to understand each other's background]]
+  - [[:collaboration:collaboration#Everyone needs to have access to the facts to base a decision on|Everyone needs to have access to the facts to base a decision on]]
+  - [[:collaboration:collaboration#The agreement needs to be supported by other stable decisions|The agreement needs to be supported by other stable decisions]]
+  - [[:collaboration:collaboration#The people involved need to be able to discuss the proposed|The people involved need to be able to discuss the proposed]]
+  - [[:collaboration:collaboration#The people involved need to see how the agreement fits into the bigger picture|The people involved need to see how the agreement fits into the bigger picture]]
+  - [[:collaboration:collaboration#It needs to solve a problem, remove a roadblock or seize an opportunity|It needs to solve a problem, remove a roadblock or seize an opportunity]]
+  - [[:collaboration:collaboration#Document the decision thoroughly |Document the decisions thoroughly]]
+
+==== Everyone needs to understand each other's background ====
+
+{{page>:contentsnippets:pii:collaboration_understand_each_other}}
+
+
+==== Everyone needs to have access to the facts to base a decision on ====
+
+{{page>:contentsnippets:pii:collaboration_evidence_based_decisions}}
+
+==== The agreement needs to be supported by other stable decisions ====
+
+{{page>:contentsnippets:pii:collaboration_decision_foundation}}
+
+==== The people involved need to be able to discuss the proposed ====
+
+{{page>contentsnippets:pii:collaboration_discuss_drafts}}
+
+==== The people involved need to see how the agreement fits into the bigger picture ====
+
+{{page>contentsnippets:pii:collaboration_bigger_picture}}
+
+==== It needs to solve a problem, remove a roadblock or seize an opportunity ====
+
+{{page>contentsnippets:pii:collaboration_purpose}}
+
+==== Document the decision thoroughly ====
+
+{{page>contentsnippets:pii:document_the_decision_thoroughly }}
+
+Read on:
+[[:collaboration:collaboration_environments|Collaboration Environemtns]]
+[[:collaboration:progress_tracking|Progress Tracking]]
+[[:collaboration:execution_patterns:tool_evaluations|Tool evaluation]]
+[[:collaboration:execution_patterns:existing_frameworks|Aligning the organisation with existing frameworks]]
+[[:collaboration:execution_patterns:Process_analysis_and_mapping_modelling|Process analysis and mapping/modelling]]
+[[:collaboration:post_agreement|Post-agreement actions]]
+[[:processes:adoption_plan|Adoption plans]]
+[[:processes:revision_plan|Revision plans]]
+
+References:
+
+
+
+

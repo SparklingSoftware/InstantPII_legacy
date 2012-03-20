@@ -1,0 +1,49 @@
+
+===== Adoption plans =====
+
+Every standard should have something called an “Adoption plan” associated with it.
+As the name implies, this document will state the plan to increase the adoption. But not only that, it also states the expected adoption rate at the next revision cycle. It’s the SEPGs and (by delegation one of the PITs) responsibility to try to meet the target adoption. 
+
+The way to increase adoption strongly depends on the organisation, but in general it’s much easier and more effective to find ways for people to want to use the standards and encourage that behaviour than to force it on people via a governance function. 
+
+The latter approach is most certainly more attractive for the standards organisation as it’s time effective. But, it’s also not very effective in terms of outcomes. It’s a bit of a “lazy” approach, which doesn’t yield a lot of value. The main reasons for this negativity are:
+  * With the growth of standards, the effort in governance will increase exponentially, turning the “standards team” into a full time “standards police”. Neither the standards team, nor the people doing the work benefit from this.
+  * People will find workarounds for the standards they detest as they feel that “Their” way is quicker which defeats the purpose of having standards.
+  * It allows for the standards team to go a 100 miles per hour, while the organisation is only able to handle 40. The organisation will lose its connection and understanding with the standards team, as they are unable to cope with the new standards coming through, most likely at a much higher maturity level then their own. Growing in maturity can only be done as an organisation as a whole, it needs to happen across the board.
+
+Having said all the above, there is always a need for governing. I’m not saying that if we teach everybody to behave, we don’t need the police force. There will always be a couple of rotten apples between the good ones. 
+
+A much more effective approach is: “Learning over governing”.
+
+First of all we need to communicate to everyone that there is a new standard. In general, nobody cares about standards, so don’t underestimate the amount of effort that’s involved in this! Not many people will read an email announcing the latest changes…
+
+The second is providing training on the standard. This can be in many forms, like just providing a user manual, it can be in training led face to face training or it can be online. It doesn’t really matter how it’s provided, if someone who is unfamiliar with a particular standards wants to use it, he/she would need to be able to learn how to do it.
+
+The adoption plan goes one step further, as the actions are (potentially) pro-active!
+It answers the question: Now that we all agree that this is the best way forward, how do I get my peers to work the same way? It’s focussing on the non-believers, instead of preaching to the quire. It’s focussing on the outer layers of the SPII Engagement onion.
+
+This is a 180 degree mind shift in comparison to many traditional process improvement approaches.
+
+But, the plan goes one step further as it will also state a target adoption rate and a way to measure the adoption.
+The plan starts at a high level and drills into increasingly more details as it progresses. The first information is an overview of what the plan is for, author details, responsible PIT, etc.
+
+It then goes on to specify which groups are targeted in this plan. (These groups are defined in the glossary). This is simply a list of groups.
+
+For each group, we can then specify what actions we think we should take to increase the adoption for that particular group. Most actions are quite generic, but some might differ significantly. 
+
+Therefore there is the notion of a base adoption plan. This plan states what needs to happen to all standards, regardless of target audience. Think about actions like adding it to the standards library, to put it in the periodic news email, etc. 
+This also makes the per-standard adoption plans specific to a particular standard. Hence the name specific adoption plan. As it will state actions in addition to the base adoption plan.
+
+The notion of adoption plans means that PITs have to not only think about the realisation of a standard, but also about the follow up. This is usually a 180 degrees mind shift in the way standards organisation work, but makes that organisation focus on what matters: Everyone in the organisation applying the standards! Not creating documents for documents sake.
+
+As said:
+
+**Sticking a document on your standards library is not magically improving your prod software, is it?
+People applying your standards is.** 
+
+To make it even harder, we should be gathering adoption information so we can feed this information back to the various PITs.
+This is usually very hard and required manual action like sending emails to all the application support teams to ask them to complete a survey regarding the use of standards.
+
+But this information is vital to make sure the SPII has a focus on what matters. Because organisational maturity relies on “the weakest link” to improve to enable the whole organisation to mature, this feedback will provide evidence based information on the actual maturity of the organisation.
+
+This information can periodically be compared against the targets specified in the adoption plan to see whether the organisation is heading in the right direction and if the standards are being used (correctly). This way the plan can be altered periodically to use new insights and (organisational) changes.

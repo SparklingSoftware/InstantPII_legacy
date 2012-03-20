@@ -1,0 +1,35 @@
+===== Post-agreement actions =====
+
+Getting agreement is only a small part of getting process improvements in place. If you thought you were done after writing the document, sorry to disappoint you: You’re only getting started!
+
+Because...
+**Sticking a document on your standards library is not magically improving your production software, is it?**
+
+However:
+The people working in the organisation are! They are the one we should be focussing on! The majority of the work is focussing on the adoption of the standards, rather than creating more.
+
+To make your life worse, governing and using sticks to beat people over the head if they are not complying is not going to help you. Assuming you have smart people in your organisation, they’ll find ways around the standards and find ways to game the metrics.
+
+**Examples of what I mean:**
+
+First example:
+Let’s say the development teams doesn’t like the current Version Contol System (VCS). They’ll figure out what the bear minimum requirements are, so let’s say that all code is eventually checked into it. What will happen is that the development team will use the VCS of their choice and push up into the enterprise VCS at the end of every day, so they still meet your requirements. The result for the organisation  is even worse than havning no standard at all: They are still using their own tool and therefore wasting time of new team members having to learn that particular tool, you have no way of telling them to stop as they comply with all your rules, but above all they are wasting time by duplicating effort to check in code. The overall TCO is therefore much higher as the support team will have to learn multiple VCSs to perform similar actions. Not a very pretty situation I would say…
+
+Second example:
+The test coverage is below par. So come iteration closure, the testers are getting anxious because the reports are going to show that they could have done better. A simple trick is to drop a couple of test cases that are sort-of covert by other test cases as well. It might seem to them that quality isn’t sacrificed as the functionality is (sort-of) tested anyway and if it moves the testing results of the project from orange into the green again, no questions are going to be asked. We are not encouraging the right behaviour…
+
+It’s really going back all the way to the goals and benefits of process improvements: 
+Increasing quality and productivity so we can server our customer / business users better.
+
+So, given all the above, it should become obvious that we need to change the culture of the organisation to achieve process improvements.
+
+If people see the purpose of the (improved) processes, they can choose to use the standards because they want to. You don’t need a governing service in place, because everyone will do it intuitively. (You probably do want some governance, as there are always cowboys lurking in the shadow of the saloon. But you get what I mean…)
+
+Read on:
+
+
+References:
+
+
+
+
