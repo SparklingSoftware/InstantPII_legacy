@@ -10,6 +10,6 @@ Even though most processes are not cast in stone and being pragmatic is highly e
 
 We recognise the following processes:
   * [[:processes:IP Lifecycle|IP Lifecycle]]
-  * [[:processes:evaluate_a_tool|Tool evaluation]]
+  * [[:collaboration:execution patterns:evaluate_a_tool|Tool evaluation]]
   * [[:processes:add_standard_to_library|Adding a standard to the library]]
 

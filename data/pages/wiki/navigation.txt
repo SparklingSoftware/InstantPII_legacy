@@ -4,7 +4,7 @@
 [[:goals and benefits:goals and benefits|Goals and Benefits]]
 [[:research:research|Supporting research]]
 [[:collaboration:collaboration|Collaboration]]
-[[:general:roles|Roles]]
+[[:roles:roles|Roles]]
 [[:processes:processes|Processes]]
 [[:downloads:downloads|Downloads]]
 

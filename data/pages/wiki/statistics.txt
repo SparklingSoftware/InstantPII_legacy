@@ -1,4 +1,4 @@
 
-~~QUICKSTATS:pages;;10~~
+~~QUICKSTATS:pages;;100~~
 
 

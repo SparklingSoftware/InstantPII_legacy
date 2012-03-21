@@ -1,2 +1,0 @@
-
-Please set the "Introduction" as the initial page to load!

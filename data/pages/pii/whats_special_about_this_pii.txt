@@ -1,4 +1,0 @@
-
-===== Difference between this SPII compared to traditional ones =====
-
-{{page>contentsnippets:spii:whats_special_about_this_spii}}

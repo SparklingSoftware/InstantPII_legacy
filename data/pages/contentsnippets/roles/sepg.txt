@@ -9,3 +9,4 @@ Responsibilities:
   * Assuming responsibility for developing/selecting/installing process-related methods, techniques and tools within the corporation. 
   * Maintaining collaborative working relationships with software engineers. This is especially important to design, plan for, and install new practices and technologies. 
 
+[[:roles:sepg|More...]]

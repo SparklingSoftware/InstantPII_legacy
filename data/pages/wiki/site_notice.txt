@@ -1,1 +1,1 @@
-The Instant SPII website is part of the [[http://www.alm-community.org|Global ALM Community]] and provided by [[http://www.sparklingsoftware.com.au|SparklingSoftware]]
+The Instant PII website is part of the [[http://www.alm-community.org|Global ALM Community]] and provided by [[http://www.sparklingsoftware.com.au|SparklingSoftware]]

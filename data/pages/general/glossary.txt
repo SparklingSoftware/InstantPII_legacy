@@ -18,8 +18,8 @@ See [[:general:glossary#Process Improvement Team|Process Improvement Team]]
 [[:todo]]
 
 Within this group following roles exist:
-  * [[:general:roles#COP Member|COP Member]]
-  * [[:general:roles#COP Lead|COP Lead]]
+  * [[:roles:roles#COP Member|COP Member]]
+  * [[:roles:roles#COP Lead|COP Lead]]
 
 ===== D =====
 
@@ -60,11 +60,11 @@ See [[:general:glossary#Improvement Proposal|Improvement Proposal]]
 
 ==== Management Steering Group ====
 
-See [[:general:roles#msg (group)|Management Steering Group]]
+See [[:roles:roles#msg (group)|Management Steering Group]]
 
 ==== MSG ====
 
-See [[:general:roles#msg (group)|Management Steering Group]]
+See [[:roles:roles#msg (group)|Management Steering Group]]
 
 ===== N =====
 
@@ -74,7 +74,7 @@ See [[:general:roles#msg (group)|Management Steering Group]]
 
 ==== PIT ====
 
-See [[:general:roles#msg (group)|Management Steering Group]]
+See [[:roles:roles#msg (group)|Management Steering Group]]
 
 ==== Process Area ====
 
@@ -82,11 +82,11 @@ A Process Area is the scope to which a particular group is focussing on. "Requir
 
 ==== Process Improvement Team ====
 
-See [[:general:roles#PIT (Group)|Process Improvement Team (Group)]]
+See [[:roles:roles#PIT (Group)|Process Improvement Team (Group)]]
 
 Within this group following roles exist:
-  * [[:general:roles#PIT Member]]
-  * [[:general:roles#PIT Lead|PIT Lead]]
+  * [[:roles:roles#PIT Member]]
+  * [[:roles:roles#PIT Lead|PIT Lead]]
 
 ===== Q =====
 
@@ -100,11 +100,11 @@ See [[:processes:revision plan|Revision plan]]
 
 ==== SEPG ====
 
-See [[:pii:sepg|Software Engineering Process Group]]
+See [[:roles:roles#sepg (group)|Software Engineering Process Group]]
 
 ==== Software Engineering Process Group ====
 
-See [[:pii:sepg|Software Engineering Process Group]]
+See [[:roles:roles#sepg (group)|Software Engineering Process Group]]
 
 ==== Process Improvement Infrastructure ====
 
@@ -144,11 +144,11 @@ The library that contains the [[general:glossary#standard| Standards]]. This can
 
 ==== Technical Working Group ====
 
-See [[:general:roles#twg (group)|Technical Working Group]]
+See [[:roles:roles#twg (group)|Technical Working Group]]
 
 ==== TWG ====
 
-See [[:general:roles#twg (group)|Technical Working Group]]
+See [[:roles:roles#twg (group)|Technical Working Group]]
 
 
 ===== U =====
