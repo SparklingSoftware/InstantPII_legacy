@@ -8,7 +8,7 @@ The PII Admin is responsible for keeping the PII run smoothly and efficiently. B
 
 ^ Goals / Responsibilities ^
 | Enable the participants to be well informed |
-| Train and provide guidance to participants of the SPII processes. (Apply where it makes sense) |
+| Train and provide guidance to participants of the PII processes. (Apply where it makes sense) |
 | Maintain standards library |
 | Maintain group membership for people |
 | Maintain collaboration tools |

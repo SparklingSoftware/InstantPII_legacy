@@ -20,7 +20,7 @@ With decisions that only affect one PIT, a notification to the SEPG is enough. T
 
 If successful, the SEGP will become the vocal point of the IT organisation. The C-level management might start asking the SEPG for advice on certain topics.
 
-It is important though to keep true to the baseline values that the community is leading it. It’s ok for upper management to ask advice. It’s even ok to formally engage a subgroup to solve a problem as long as it’s the community making the decisions. In other words: Upper management should not be part of the working group and if they insist, they only get one vote, just like the rest of the group. They need to trust the community to do their work. If they don’t like this, they have to solve their issue themselves, but not through the SPII and it won’t get the benefits of it.
+It is important though to keep true to the baseline values that the community is leading it. It’s ok for upper management to ask advice. It’s even ok to formally engage a subgroup to solve a problem as long as it’s the community making the decisions. In other words: Upper management should not be part of the working group and if they insist, they only get one vote, just like the rest of the group. They need to trust the community to do their work. If they don’t like this, they have to solve their issue themselves, but not through the PII and it won’t get the benefits of it.
 
 Pro-actively noticing issues and opportunities to improve.
 Even though the SEPG members tend to be extremely busy people and it’s really important to keep the SEPG meetings to a tight schedule, it’s also an important socialisation moment for the members.

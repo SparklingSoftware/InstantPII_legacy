@@ -13,7 +13,7 @@ The suggested structure isn't new. It has been proposed by Carnegie Melon in the
 
 The proposed organisational structure looks like this:
 
-{{:interaction_between_sepg_pit_msg_and_twg.png?600|SPII Team interactions}}
+{{:interaction_between_sepg_pit_msg_and_twg.png?600|PII Team interactions}}
 
 As you can see, it involves the creation of so called Process Improvement Teams (PITs). Interestingly enough, they exist in many companies already. The positive nature of people makes them form small pockets of likeminded employees to try to improve their process area.
 

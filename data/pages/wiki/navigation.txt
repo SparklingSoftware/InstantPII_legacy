@@ -1,5 +1,5 @@
 
-**About SPII**
+**About PII**
 [[:introduction|Introduction]]
 [[:goals and benefits:goals and benefits|Goals and Benefits]]
 [[:research:research|Supporting research]]

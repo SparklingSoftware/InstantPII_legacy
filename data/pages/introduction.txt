@@ -1,9 +1,9 @@
 <nodisp>
-<spii_meta>
+<pii_meta>
   <status>Live</status>
   <revision_frequency>180</revision_frequency>
   <hierarchy view="pii" parent='' />
-</spii_meta>
+</pii_meta>
 </nodisp>
 ~~NOCACHE~~
 

@@ -20,7 +20,7 @@ First of all we need to communicate to everyone that there is a new standard. In
 The second is providing training on the standard. This can be in many forms, like just providing a user manual, it can be in training led face to face training or it can be online. It doesn’t really matter how it’s provided, if someone who is unfamiliar with a particular standards wants to use it, he/she would need to be able to learn how to do it.
 
 The adoption plan goes one step further, as the actions are (potentially) pro-active!
-It answers the question: Now that we all agree that this is the best way forward, how do I get my peers to work the same way? It’s focussing on the non-believers, instead of preaching to the quire. It’s focussing on the outer layers of the SPII Engagement onion.
+It answers the question: Now that we all agree that this is the best way forward, how do I get my peers to work the same way? It’s focussing on the non-believers, instead of preaching to the quire. It’s focussing on the outer layers of the PII Engagement onion.
 
 This is a 180 degree mind shift in comparison to many traditional process improvement approaches.
 
@@ -44,6 +44,6 @@ People applying your standards is.**
 To make it even harder, we should be gathering adoption information so we can feed this information back to the various PITs.
 This is usually very hard and required manual action like sending emails to all the application support teams to ask them to complete a survey regarding the use of standards.
 
-But this information is vital to make sure the SPII has a focus on what matters. Because organisational maturity relies on “the weakest link” to improve to enable the whole organisation to mature, this feedback will provide evidence based information on the actual maturity of the organisation.
+But this information is vital to make sure the PII has a focus on what matters. Because organisational maturity relies on “the weakest link” to improve to enable the whole organisation to mature, this feedback will provide evidence based information on the actual maturity of the organisation.
 
 This information can periodically be compared against the targets specified in the adoption plan to see whether the organisation is heading in the right direction and if the standards are being used (correctly). This way the plan can be altered periodically to use new insights and (organisational) changes.

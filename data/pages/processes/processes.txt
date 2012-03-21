@@ -4,9 +4,9 @@
 </nodisp>
 
 
-===== Processes the are applicable within the SPII =====
+===== Processes the are applicable within the PII =====
 
-Even though most processes are not cast in stone and being pragmatic is highly encouraged, it is good to show the processes that are used during the design of the SPII. The more these processes are followed, the more consistency the standards library will have and therefore be easier to navigate.
+Even though most processes are not cast in stone and being pragmatic is highly encouraged, it is good to show the processes that are used during the design of the PII. The more these processes are followed, the more consistency the standards library will have and therefore be easier to navigate.
 
 We recognise the following processes:
   * [[:processes:IP Lifecycle|IP Lifecycle]]
