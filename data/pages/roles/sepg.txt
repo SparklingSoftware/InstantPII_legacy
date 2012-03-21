@@ -1,0 +1,46 @@
+
+===== Software Engineering Process Group (SEPG) =====
+
+The SEPG consists of representatives across the organisation. They are all practitioners, usually quite senior people as they need to have a good understanding of cross competency issues within the organisation.
+The SEPG has the following goals:
+  - Cross competency agreements on processes, tools, etc.
+  - Progress tracking over overall process improvements.
+  - Pro-actively detecting issues and opportunities to improve.
+  - Aligning cross competency processes. 
+  - Becoming a vocal point of the IT organisation.
+  - Improving informal communication across competencies.
+
+==== Cross competency agreements ====
+
+Obviously the main purpose of the SEPG is to achieve cross competency agreements. During the SEPG meeting every PIT lead has their say in decision made. Attendance to the SEPG meetings is therefore naturally encouraged as it’s up to the PIT lead not to miss out on influencing important decisions.
+
+With decisions that only affect one PIT, a notification to the SEPG is enough. The Forum approves these implicitly to not waste any time during the meeting.
+
+==== Becoming a vocal point of the IT organisation. ====
+
+If successful, the SEGP will become the vocal point of the IT organisation. The C-level management might start asking the SEPG for advice on certain topics.
+
+It is important though to keep true to the baseline values that the community is leading it. It’s ok for upper management to ask advice. It’s even ok to formally engage a subgroup to solve a problem as long as it’s the community making the decisions. In other words: Upper management should not be part of the working group and if they insist, they only get one vote, just like the rest of the group. They need to trust the community to do their work. If they don’t like this, they have to solve their issue themselves, but not through the SPII and it won’t get the benefits of it.
+
+Pro-actively noticing issues and opportunities to improve.
+Even though the SEPG members tend to be extremely busy people and it’s really important to keep the SEPG meetings to a tight schedule, it’s also an important socialisation moment for the members.
+
+Now and then the discussions during the meetings will go off-topic. That is not necessarily a bad thing!
+After all: It’s not THE goal for the SEPG to just get IPs done. The ultimate goal is process improvements and therefore quality and productivity improvements. If by exchanging vital information we achieve that goal, that’s fine! 
+
+The pro-active attitude during the meeting will lead to more innovations. And because all the process areas are represented, a healthy discussion with views from multiple angles is the result. 
+If they go overboard though, it might be useful to organise a separate meeting or stay 15 minutes later with the interested participants.
+
+==== Aligning cross competency processes. ====
+
+To enable fact based discussions, every process area needs to define their own processes **__in a language that the other competencies understand__**. There is a good reason why the second part of the sentence is underlined. It’s no use specifying processes if the audience doesn’t understand them.
+
+It’s a good idea to create a baseline of the current processes first.
+
+
+==== Improving informal communication across competencies. ====
+
+
+[[:todo]]
+
+
