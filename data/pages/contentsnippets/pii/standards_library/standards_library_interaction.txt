@@ -1,3 +1,0 @@
-
-The interaction diagrams << TODO >> give detailed information on how the user will navigate the site for the most comment use cases. (These are identified by the :!:).
-

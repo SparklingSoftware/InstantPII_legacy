@@ -7,22 +7,31 @@ There are, however some clever steps and approvals embedded in the process, so t
 
 ==== Overview ====
 
-{{page>contentsnippets:spii:processes:spii_process_overview}}
+<ditaa 0.9X>
 
+  /----------------\  /---------------------\  /------------------\  /-------------------------------\  /------------------------\
+  |                |  | SEPG Agrees on      |  |                  |  |                               |  |                        |
+  | Someone raises |  | the general concept |  | PIT Analysis the |  | SEPG Agree on outcomes        |  | SEPG Approves outcomes |
+->| an IP          +->| and which PIT       +->| IP and determine +->| and the PIT sets of           +->| and the standard is    |
+  |                |  | "Owns" the IP       |  | Deliverables.    |  | to work producing the outputs |  | added to lib           |
+  |                |  |                     |  |                  |  |                               |  |                        |
+  \----------------/  \---------------------/  \------------------/  \-------------------------------/  \------------------------/
+  
+</ditaa>
 
 ==== Raise an "Improvement Proposal" ====
 
-Everything starts with someone raises an Idea for an improvement. Something called an [[:general:glossary#improvement proposal|Improvement Proposal (IP)]]. The person in the [[:general:roles#spii admin|SPII Admin]] role will receive a notification of the submission.
+Everything starts with someone raises an Idea for an improvement. Something called an [[:general:glossary#improvement proposal|Improvement Proposal (IP)]]. The person in the [[:roles:roles#pii admin|PII Admin]] role will receive a notification of the submission.
 
 Anyone in the organisation can raise an idea (Improvement Proposal) and it doesn't matter how much details are specified. Even a one-liner can suffice as a proposel. Raising an idea should be really light weight, so everyone can easily do it.
 
-An electronic form assist the [[:general:roles#practitioner|Practitioner]] in submitting the idea. The form should allow for changes, while keeping track of the history, so that all information is kept. A nice to have is a status field that show the current status of the IP. The EForm needs to easily discoverable / acessable by putting links all over the SPII to the form. 
+An electronic form assist the [[:roles:roles#practitioner|Practitioner]] in submitting the idea. The form should allow for changes, while keeping track of the history, so that all information is kept. A nice to have is a status field that show the current status of the IP. The EForm needs to easily discoverable / acessable by putting links all over the PII to the form. 
 
 Raising IPs is done for two reasons:
-  * Reporting. (As the organisation is paying for people to participate in the SPII, we need to report progress.)
+  * Reporting. (As the organisation is paying for people to participate in the PII, we need to report progress.)
   * Keeping history 
 
-(Btw: A symptom of management adoption is when the CIO/CTO would raise an IP. This proves two things: He/She feels the SPII indeed represents the entire organization and he/she trusts the SPII organization to make responsible decisions. (See the [[:spii:goals and benefits|goals]] of SPII).)
+(Btw: A symptom of management adoption is when the CIO/CTO would raise an IP. This proves two things: He/She feels the PII indeed represents the entire organization and he/she trusts the PII organization to make responsible decisions. (See the [[:goals and benefits:goals and benefits|Goals and benefits]] of PII).)
 
 === When to raise an "Improvement Proposal" and when to "Just do it" ====
 
@@ -34,7 +43,7 @@ Raise an IP:
   * Obviously new Improvements, like introducing new systems, etc
   * Process alterations
   * Improvements that can touch other competencies
-  * Accidental improvements to the standards library. This happens when something/someone outside of the SPII has improved something that can be used as a standard going forward. Raising an IP in this case is not for claiming credit, it's for keeping track of history.
+  * Accidental improvements to the standards library. This happens when something/someone outside of the PII has improved something that can be used as a standard going forward. Raising an IP in this case is not for claiming credit, it's for keeping track of history.
   * Updating a template from version 2 to version 3. (Implying big changes, like overhoaling)
 
 Just do it:
@@ -44,11 +53,11 @@ Just do it:
 
 In general, there are two questions assisting in the decission whether or not to raise an IP:
   - Does this improvement impact others, so that the SEPG members need to agree?
-  - Do we need to work on the adoption << TODO: Link to adoption plan >> of this improvement?
+  - Do we need to work on the [[:processes:adoption_plan|adoption]] of this improvement?
 
 ==== The process for raising and screening an IP  =====
 
-Because everyone can raise an IP, the idea needs to be screened for validity. The SPII admin will therefore look at the content of the submitted IP and ask one of the SEPG members to “Screen” it. 
+Because everyone can raise an IP, the idea needs to be screened for validity. The PII admin will therefore look at the content of the submitted IP and ask one of the SEPG members to “Screen” it. 
 
 While reading there is a strong urge to spring into action and to start working on the initiative immediately. That is not the point just yet. The goal of “Screening” is to have a quality check on the IPs before they are discussed in the SEPG meeting. These checks include checking for doubles or very similar, is it complete, can everyone understand the purpose?
 
@@ -56,28 +65,216 @@ The SEPG Member can obviously do what he/she needs to do to get into a discussab
 
 Or the result of the screening is to close it, for instance when its not a valid proposal, the proposal just doesn't make sense or the improvement proposal already exists, etc. A low priority is NOT a valid reason for closing it. This is not up to the person screening the IP, but up to the SEPG to decide. Furthermore, even though it might be low priority now, it might rise to the top over time.
 
-{{page>contentsnippets:spii:processes:raise_ip}}
+
+
+  - The IP Submitter fills in the eform and submits the [[:general:glossary#improvement proposal|Improvement Proposal]].
+  - The progress tracking system sets the status to "New".
+  - The [[:roles:roles#pii admin|PII Admin]] reads the improvement and assigns the improvement to a particular PIT for screening. This is by no means final and is very course grained sorting. This is because the screening should be a really simple task.
+  - The PIT that the improvement has been assigned to opens the improvement and "Screens" the improvement. Screening means reading through the improvement and deciding whether its in a state to be discussed by the SEPG. The IP doesn't have to be final, fully understood, etc. A one liner can sometimes suffice for everyone to understand what the improvement is about. Later on, during the "Analysis" phase, more detail is added to the improvement. The reason for this quick "triage" process is to eliminate the waste of effort that would have taken us to define the improvement in much detail, while it won't be implemented any time soon because of other priorities. Screening should be a 5-10 minute job, just to prevent a room full of people wasting 20 minutes because of vaguely written improvements. If more information is needed, the PIT will obviously ask the submitter for more information. The PIT Lead that did the screening moves changes the status of the improvement to either "Screened" or "Closed".If the IP is closed, a communication needs to go out to the submitter, explaining why it improvement is closed.
+
+**The process map is shown below:**
+
+<ditaa>
+
+-------------------------------------------------------------------------------------------------------
+                                                                                             
+              /-----------\                   +------------+                                
+              |           |                   |            |                                
+IP Submitter  | Submit IP |                   | More info  |                                
+              |           |                   |            |                                
+              \-----+-----/                   +------------+                                
+                    |                               ^ |                                       
+--------------------|-------------------------------|-|------------------------------------------------
+                    |                               | |                                                  
+                    |  /-------------\              | |
+                    |  |             |              | |
+Progress Tracking   +->| IP Recorded |              | |
+                       | Status:"New"|              | |
+                       |             |              | |
+                       \------+------/              | |
+                              |                     | |                                                    
+------------------------------|---------------------|-|------------------------------------------------
+                              v                     | |
+                      /---------------\             | |
+                      |               |             | |
+PII Admin             | Assign to PIT |             | |
+                      |               |             | |
+                      \-------+-------/             | |
+                              |                     | |
+------------------------------|---------------------|-|------------------------------------------------
+                              |                     | |
+                      /---------------\             | |         +---------+      +------------+
+                      |               +-------------+ |         |{c}      |Y     |  Status:   |
+PIT Lead              |   Read IP     |<--------------+   +---->| To SEPG |----->|  "Screened"|
+                      |               |-------------------+     |         |      |            |
+                      \---------------/                         +----+----+      +------------+
+                                                                     |N
+---------------------------------------------------------------------|----------------------------------
+                                                                     |                                         
+                                                                     v                                         
+                                                            +----------------+                                
+                                                            |{s}             |                                
+                                                            |   Recycle bin  |                                
+                                                            |                |
+                                                            +----------------+                                
+                                                                                             
+--------------------------------------------------------------------------------------------------------
+
+</ditaa>
 
 ==== The process for the SEPG to discuss a screened IP  =====
 
-{{page>contentsnippets:spii:processes:discuss_ip}}
+
+Assuming the IP was indeed valid and has passed the screening, it gets added to the SEPG agenda. The easiest way to do this is to have an agenda item “Screened IPs” that discusses all IPs that have been screened. This list should be retrievable from the progress tracking tool.
+Prioritisation is a stepped process:
+
+1) Is the IP valid?
+
+Or “Is this something that we should work on?” 
+As it has been screened, this should be valid. The SEPG can however have a different view as the person who has screened it. 
+If it is it proceeds to the next step. If it doesn’t, the IP is closed while specifying the reason.
+The submitter should get a notification of the status change.
+
+2) What PIT should work on it?
+
+For most IPs it will be obvious what PIT should be working on it. If it is, the PIT gets assigned right from the start.
+
+3) Is the priority of the screened IP high enough that we should work on it immediately?
+
+Assuming there are already tasks assigned to the PIT, does the “Screened” IP needs to be actioned on instead of the IP currently “In Progress”?
+
+If so, the IP will be progressed into “In analysis”.
+If not, the IP goes into the backlog for consideration at a later time.
+
+The backlog needs to be reviewed on a periodically so that way the improvements are not forgotten. The submitter of the IP should be notified of the outcome of the revision, regardless of a change in status as a result of it.
+
+**The formal description of the process:**
+  - The SEPG discusses the "Screened" improvement. There are three possible outcomes: "Closed", "Backlog" or "In analysis".
+    - "Closed". The SEPG didn't think the improvement made sense to implement. There could be various reasons to result into this, like doubling up on work, lack of priority, not achievable, etc.
+    - "Backlog". The SEPG does think the improvement is a good idea, although no PIT has time to start working on it and it's not urgent enough to stop working on the current improvements.
+    - "In Analysis". The improvement is a good idea and it's urgent enough to start immediately on it. Potentially, another improvement will need to wait until this has been implemented.
+
+
+<ditaa>
+
+-------------------------------------------------------------------------------------------------------
+Progress Tracking                                                                                                    
+  /--------------------\                    /-----------------------\   /--------------------------\
+  |                    |                    |                       |   |                          |
+  | IP status is "New" |                    | IP status is "Backlog"|   |IP Status is "In Analysis |
+  |                    |                    |                       |   |                          |
+  \--------+-----------/                    \-----------------------/   \--------------------------/
+           |                                          ^                            ^    
+-----------|------------------------------------------|----------------------------|-------------------
+SEPG       v                                          |N                           |
+   /---------------\    /---------------\    /--------+---------\                  |
+   | {c}           |    |               |    | {c}              |Y                 |
+   | Good idea?    +--->| Assign to PIT +--->| Change PIT Prio? +------------------+
+   |               |Y   |               |    |                  |
+   \-------+-------/    \---------------/    \------------------/
+           |N                         
+-----------|-------------------------------------------------------------------------------------------
+           v                                         
+  +----------------+                                
+  |{s}             |                                
+  |   Recycle bin  |                                
+  |                |
+  +----------------+                                
+                                                                                             
+-------------------------------------------------------------------------------------------------------
+
+</ditaa>
 
 ==== The process for the PIT to analyse an IP  =====
 
-{{page>contentsnippets:spii:processes:analyse_ip}}
+
+(AKA: “defining deliverables”, “defining acceptance criteria” and “what does ‘Done’ mean?”)
+
+Great! We are going to do some work!
+
+All SEPG members had the ability to raise objections against the IP and the fact that the IP is “in Analysis” proves that everyone agrees with the general direction. It is now time to elaborate on that direction and describe exactly what we are going to be delivering as part of the execution of the IP. That way, the working group knows exactly what to work towards and the SEPG knows what to expect some time down the track when the PIT comes back and delivers those outcomes. This step is to prevent re-work because of changing SEPG members, or similar situations. It becomes more important with longer running improvements or cross competency initiatives.
+
+The output of the “Analysis” phase is a list of deliverables with descriptions and timelines. Obviously with a community driven approach, no one is hold to these timelines, but it’s good to set the expectations around timeframes.
+
+The working group uses Its “Informal” environment (the PITs) to communicate and to store the draft documents. The output artefacts are then stored in the “Informal” SEPG environment.
+
+The list of deliverables is again discussed in the SEPG so all members are aware of the work that is going to be commenced. It also provides the second time that all members are approving the improvement to be implemented. This time in more detail as before. When the deliverables are approved, these are published on the “Historical” area so we keep track of decisions. The [[:roles:roles|PII Admin]] is responsible for this.
+
+<ditaa>
+
+-------------------------------------------------------------------------------------------------------
+Progress Tracking                                                                                                    
+   /---------------------------\          /----------------------------\  
+   |                           |          |                            |   
+   | IP status is "In Analysis |          | IP status is "In progress" |
+   |                           |          |                            |
+   \-------------+-------------/          \----------------------------/
+                 |                                      ^           
+-----------------|--------------------------------------|-------------------------------------------------
+PIT              v                                      |                           
+   /---------------------------\                        |
+   |                           |                        | 
+   | Define deliverables       |                        |
+   |                           |                        |
+   \-------------+-------------/                        |
+                 | ^                                    |
+-----------------|-|------------------------------------|------------------------------------------------
+SEPG             v |N                                   |
+      +------------+----------+                         |    
+      |{c}                    |Y                        |    
+      | Approve deliverables  +-------------------------+          
+      |                       |
+      +-----------------------+                                
+                                                                                             
+-------------------------------------------------------------------------------------------------------
+
+</ditaa>
 
 ==== The process for the PIT to work on an IP  =====
 
-{{page>contentsnippets:spii:processes:work_on_ip}}
+During the execution phase the improvement gets executed. This might involve research, actually implementing something, retiring something, writing documents like job-aids, etc. It all depends what the content of proposal is.
+
+Whatever the case may be, this is the phase where we actually going to do some work. Everyone agreed that is a good to execute it, so run as fast as you can to create the deliverables. No excuses not to run.
+
+In fact, the process to ensure we arrive to this point is usually pretty light weight and should be done really quickly. 
+See example execution patterns for more info on how to execute the most common patterns.
+
+Again all drafts and communication is stored in the PIT's [[:collaboration:collaboration_environments#Informal | informal workspace]]. When the final artefacts are produced, these are put on the “Informal” workspace of the SEPG, so they can approve it in the next meeting. There is a area called "Awaiting approval" where the finished artefacts go. Everyone working in the PII should be able to put artefacts up for approval.
+
+The delivered artefacts also need to include an [[:processes:adoption plan|Adoption plan]] and a [[:processes:revision plan|Revision Plan]]. Without it, the SEPG shouldn't approve the standard. (The reason is that otherwise the adoption and revision plans will very often never happen :-))
+
+
+<ditaa>
+
+-------------------------------------------------------------------------------------------------------
+Progress Tracking                                                                                                    
+   /----------------------------\          /----------------------------\  
+   |                            |          |                            |   
+   | IP status is "In Progress" |          | IP status is               |
+   |                            |          | "Awaiting sign-off"        |
+   \-------------+--------------/          \----------------------------/
+                 |                                      ^           
+-----------------|--------------------------------------|-------------------------------------------------
+PIT              v                                      |                           
+   /------------------------------\        /---------------------------\
+   | Create deliverables          |        | Put all deliverables on   |
+   | (Incl. Adoption and revision +------->| share ready to be         |
+   | plans)                       |        | signed-off.               | 
+   \------------------------------/        \---------------------------/
+
+</ditaa>
 
 ==== The process for the SEPG to sign off on an IP  =====
 
-{{page>contentsnippets:spii:processes:sign_off_on_ip}}
+During the next SEPG meeting the delivered artefacts get discussed. Depending on the size and/or impact of the IP, it can be good for morale to invite the people who have worked on the IP to talk about it for 5 or 10 minutes. Celebrating success is very important and it gives the ability for the SEPG to say “Thanks!!” to the participants!
 
-==== The process for the SPII Admin to upload the standards =====
+After approval that decision also gets published again on the “Historical” workspace. The “PII Admin” is responsible for this.
 
-{{page>contentsnippets:spii:processes:upload_standard}}
+==== The process for the PII Admin to upload the standards =====
 
+The last step is to publish the new artefacts on the [[:general:glossary#standards library|Standards Library]]. The “PII Admin” is responsible for this. 
+
+[[:todo|Finish publishing standards process]]
 
 ==== Risks in short-cuts ====
 

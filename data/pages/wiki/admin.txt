@@ -1,8 +1,9 @@
 
+===== Administrative Pages ====
 
-[[:wiki:orphans|Orphans]]
+[[:wiki:orphans|Orphaned pages]]
 [[:wiki:pages wanted|Pages Wanted]]
-[[:wiki:revisions|Revisions]]
-[[:wiki:statistics|Statistics]]
+[[:wiki:revisions|Pgaes up for revision]]
+[[:wiki:statistics|Usage Statistics]]
 
 

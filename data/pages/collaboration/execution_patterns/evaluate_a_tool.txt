@@ -15,6 +15,17 @@
 
 The majority of the IPs are actually around tooling. This makes sense, as these are close and dear to people’s heart. Furthermore everyone has their own preferences and technology keeps moving, so it’s an ever changing arena.
 These evaluations are a three step process:
+
+<ditaa>
+
+     +--------------+
+     |              |
+---->| something    |
+     |              |
+     +--------------+
+   
+</ditaa>
+
   - [[:collaboration:execution patterns:evaluate_a_tool#requirements|Requirements]]
   - [[:collaboration:execution patterns:evaluate_a_tool#tool evaluation|Tool evaluation]]
   - [[:collaboration:execution patterns:evaluate_a_tool#advice|Advice to the SEPG]]

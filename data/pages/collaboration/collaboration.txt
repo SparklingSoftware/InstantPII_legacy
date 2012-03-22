@@ -1,4 +1,4 @@
-
+﻿
 ===== Collaboration in the Process Improvement Infrastructure =====
 
 In order to achieve process improvements in stead of gaining a stale document library, many people need to be involved and whoever's involved to be able to have their voice heard. Furthermore, to make good progress and not have to re-iterate the same discussions this collaboration needs to be structured.
@@ -55,45 +55,90 @@ The core of making process improvements is to get everyone to agree on the best 
 
 ==== Everyone needs to understand each other's background ====
 
-{{page>:contentsnippets:pii:collaboration_understand_each_other}}
+In order to have informed conversations or debates, everyone needs to understand each other's background so that when someone makes a claim about priorities, the other participants can value the claim and understand why it's important. 
 
+It also helps them weigh their own priorities against those of their colleagues and challenge their own or those from their peers.
+
+To achieve this, the different roles, their tasks, etc. need to be defined so that everyone can understand their meaning. Especially those participants that are from other competencies.
+
+This is harder than it seems and that's because every process area has their own set of abbreviations and language and people generally don't really care about other competencies.
 
 ==== Everyone needs to have access to the facts to base a decision on ====
 
-{{page>:contentsnippets:pii:collaboration_evidence_based_decisions}}
+Get as much facts as possible before jumping into action. An increase of facts results in a decrease is room for discussion. There is an exception to this in case of contradicting facts, but that might be an indication that the organisation is not mature enough or that you might be dealing with multiple root causes. In any case, if you cannot manage to get the facts needed for a healthy discussion about improvements, than you should ask yourself whether you are on the right track.
+
+
+
+The facts can be achieved in several ways, for instance:
+
+  * Metrics out of systems (Automated, manual, one-off)
+
+  * Customer feedback
+
+  * Root cause analysis of production incidents over a period in the past
+
+  * Project self-assessments 
+
+  * Process Analysis
+
+  * Voting / Survey
+
+  * etc
+
+
+
+Everyone needs to have access to these facts, so no one will be tempted to game them. Openness and honesty are the most important aspects.
 
 ==== The agreement needs to be supported by other stable decisions ====
 
-{{page>:contentsnippets:pii:collaboration_decision_foundation}}
+As one decisions builds on top of each other, starting with an instable base is setting yourself up for failure. Like building a house of cards, only put the next layer up on a firm base.
+
+Keeping the history of decisions made is a big part of this. To prevent teams to go back to earlier decisions, it's important for people to be able to go back and look what led to the decisions. This approach also creates an open environment where everyone can challenge all decisions. 
 
 ==== The people involved need to be able to discuss the proposed ====
 
-{{page>contentsnippets:pii:collaboration_discuss_drafts}}
+The team members need to be able to have discussions in order to reach agreements. If everyone is in the same location, a face to face meeting obviously works best. With geo located teams other means need to be used.
+
+
+
+Different time zones make it even harder to reach agreements as everything might have to go through written discussions.
+
 
 ==== The people involved need to see how the agreement fits into the bigger picture ====
 
-{{page>contentsnippets:pii:collaboration_bigger_picture}}
+Although it's great for the team members to remove roadblocks that they run into on their day-2-day life, it's even more important for everyone to see the bigger picture. That way all the initiatives within the organisation can be aligned to achieve bigger outcomes.
+
+"The collective outcomes are bigger than the sum of the individual parts."
 
 ==== It needs to solve a problem, remove a roadblock or seize an opportunity ====
 
-{{page>contentsnippets:pii:collaboration_purpose}}
+The purpose of process improvements are increasing quality and productivity. All initiatives therefore need to tie
+ into that. 
+
 
 ==== Document the decision thoroughly ====
 
-{{page>contentsnippets:pii:document_the_decision_thoroughly }}
+
+Let’s face it: There are not a lot of people who like to write documentation in the IT industry. Let alone write standards. So documenting the rationale behind standards is probably way down on the list of priorities.
+
+However, this is probably the most important thing in process improvements!
+
+The most likely reason why people are not following standards is that they either don’t know that they exist (Cannot find the current one between all the stale ones in the intranet, multiple documents, very different content, same name and version, do these situations sound familiar? ) or the end user doesn’t agree with the standard. 
+
+The first reason can be solved by following the recommendations in Chapter 11, “Standards Library” and training people in how to find the library. Preferably everyone who joins the organisation will be enrolled into the training and perhaps a mandatory periodic refresher?
+
+The second is that the user of the standards doesn’t agree with the standard. This can be one of the following reasons:
+  * The user doesn’t know all the angles that were considered when creating the standard.
+  * The PIT that created the standard missed an argument that would have led to a different decision.
+  * The user has a personal preference that differs from the consensus across the team that created the standard.
 
 Read on:
 [[:collaboration:collaboration_environments|Collaboration Environemtns]]
 [[:collaboration:progress_tracking|Progress Tracking]]
-[[:collaboration:execution_patterns:tool_evaluations|Tool evaluation]]
+[[:collaboration:execution_patterns:evaluate_a_tool|Tool evaluation]]
 [[:collaboration:execution_patterns:existing_frameworks|Aligning the organisation with existing frameworks]]
 [[:collaboration:execution_patterns:Process_analysis_and_mapping_modelling|Process analysis and mapping/modelling]]
 [[:collaboration:post_agreement|Post-agreement actions]]
 [[:processes:adoption_plan|Adoption plans]]
 [[:processes:revision_plan|Revision plans]]
-
-References:
-
-
-
 

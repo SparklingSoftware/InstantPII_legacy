@@ -4,8 +4,19 @@
 
 ==== PIT (Group) ====
 
-{{page>contentsnippets:roles:PIT&noheader}}
+===== PIT (Group) =====
 
+These are teams of software engineers that give part of their time to the process improvement, focusing on a specific process (for example, requirements' management process, project planning process, project tracking process, etc.). Every key process area should be allocated a 
+Process Improvement Team (PIT) Each team takes responsibility and ownership of the improvement efforts of that of the key process areas.  Membership of each PIT would vary according to the nature and boundaries for the key process area. An example is  that membership of a Requirements Management Process Improvement Team (RM-PIT) should include representatives of the customers, representatives of the project management, representatives of the subcontractors, representatives of the whole system of which the software is a component. 
+
+The general responsibility of a PIT is implementing the software process improvement actions for the key process area allocated to the team. Specific activities could cover a wide variety of areas such as: 
+  * Documentation, analysis and redesign of current processes.
+  * Redesign of the processes under consideration.
+  * Documenting the new processes.
+  * Evaluating, selecting methods, techniques, and tools in support of the new processes (for example configuration management techniques and tools, design methods and tools, etc.). 
+  * Developing and conducting process training.
+  * Liaison with the SEPG to co-ordinate with related software PITs responsible for related key process areas. An example is co-ordination between the Configuration Management PIT and the Software Quality Assurance PIT to design common change control and review procedures). 
+  * Designing procedures for monitoring the process performance, and specifying the feedback mechanisms that should be in place to collect feedback and the tools for analysis of the feedback data. 
 
 ==== PIT Lead ====
 
@@ -17,50 +28,98 @@
 
 ==== Practitioner ====
 
-{{page>contentsnippets:roles:practitioner&noheader}}
+
 
 ==== SEPG (Group) ====
 
-{{page>contentsnippets:roles:sepg&noheader}}
+===== SEPG (Group) =====
+
+The SEPG is a corporate level group tasked with the co-ordination and support of all software process improvement teams and activities across the whole organisation. The SEPG should act the central driving force for software process improvement, and the focal point for   process improvement effort across the organization. Due to its significant role in software process improvement, special attention should be given to the formation of the SEPG (Dorsey & McDonald 1996) both in terms of its organisational structure, membership, and responsibilities. 
+
+Responsibilities: 
+  * Co-ordinating all process improvement activities across the organization, and obtaining and maintaining the support of all levels of management. 
+  * Nominating and recruiting members of the software process improvement teams (Software PITs), and co-ordinating their activities. (The SEPG does not have to perform all the process improvement activities themselves, but should provide support and co-ordination to the process improvement teams) 
+  * Acting as the "keepers" of the process. They should have the responsibility of the maintaining the process assets,  encouraging/soliciting the feedback of the process, planning and driving the process improvement efforts, co-ordinating the process improvement teams, and assuring synergy across the various software process improvement teams (Software PITs) 
+  * Assuming responsibility for developing/selecting/installing process-related methods, techniques and tools within the corporation. 
+  * Maintaining collaborative working relationships with software engineers. This is especially important to design, plan for, and install new practices and technologies. 
+
+[[:roles:sepg|More...]]
 
 ==== SEPG Assistant ====
 
-{{page>contentsnippets:roles:sepg_assistant&noheader}}
-
 ==== SEPG Lead ====
-
-{{page>contentsnippets:roles:sepg_lead&noheader}}
 
 ==== SEPG Member ====
 
-{{page>contentsnippets:roles:sepg_member&noheader}}
-
 ==== PII Admin ====
 
-{{page>contentsnippets:roles:pii_admin&noheader}}
+===== PII Admin ======
+
+=== Description ===
+
+The PII Admin is responsible for keeping the PII run smoothly and efficiently. By encouraging and supporting the people participating in NAVIGATE, the theshold is lowered for participants to contribute to the communties. 
+
+=== Goals / Responsibilities ===
+
+^ Goals / Responsibilities ^
+| Enable the participants to be well informed |
+| Train and provide guidance to participants of the PII processes. (Apply where it makes sense) |
+| Maintain standards library |
+| Maintain group membership for people |
+| Maintain collaboration tools |
+| Keep the information up to date (with the correct branding, etc) |
+| Report metrics to the SEPG and greater PII |
+| Send reminders to participants |
+| Responsible for the maintenance of the IT Systems |
+
+=== The following processes used by this role: ===
+
+** Keep the information up to date **
+
+** Maintain the standards library **
+
+[[:processes:add_standard_to_library| Adding a standard to the standards library]]
 
 ==== TWG (Group) ====
 
-{{page>contentsnippets:roles:twg&noheader}}
+
+The Technical Working Groups (TWG) are formed as needed to undertake some process development or improvement task (e.g.,
+develop and pilot a standard process for conducting code inspections). Often led by a member of the SEPG and made up
+of part-time subject matter experts. Teams are dissolved once their task has been completed.
+
+The TWG are often funded by the [[:general:glossary#msg|MSG]] and allow the MSG to determine the strategic directions by allocating funding to rappidly mature certain processes areas.
+
+A TWG is created on a per-project basis and has a project manager, pre-determined scope, deliverables, budget, deadlines, etc. So there is a huge contrast as to the "normal" non-funded [[:general:glossary#SEPG|SEPG]] world.
+
+The TWG reports fincanials and progress to the MSG, but deliveres to the SEPG. The SEPG needs to sign-off on the deliverables so that the TWG can report it as Done to the MSG. The MSG will need to trust the SEPG to deliver according to promis. After all the SEPG put forward the business case!
+
+The MSG set priorities by allocating funding and can set high level requirements will go through the SEPG for approval (Although as the MSG is paying for it, these requirements tend to be copied one-to-one :-)). The reason for this approval is that the MSG actually has to specify WHY the requirements are important and why they help the organisation go better and faster. Besides forcing management to think about the requirements before jumping into solution mode, it also creates a common understanding why management feels passionate about something. The SEPG can then work with those requirements to make sure the solution is optimised for all stakeholders, practitioners and managers alike.
 
 ==== TWG Lead ====
 
-{{page>contentsnippets:roles:twg_lead&noheader}}
-
 ==== TWG Member ====
-
-{{page>contentsnippets:roles:twg_member&noheader}}
 
 ==== MSG (Group) ====
 
-{{page>contentsnippets:roles:msg&noheader}}
+===== MSG (Group) =====
+
+(Quoted from Zahran [(Zahran 1998)])
+
+The Management Steering Group (also sometimes called Steering Committee, Process Improvement Council, or Executive 
+Improvement Team) is a policy-making body of a group of senior and line managers who develops the organisation�s overall strategy for   software process strategy and monitors its progress. The MSG meets periodically to translate corporate policies into actions and align the SPI programme priorities and direction accordingly. 
+
+Responsibilities: 
+  * Setting strategic direction for SPI activities 
+  * Reviewing the results of the of the software process assessments 
+  * Approving the formation of the software process improvement teams (PITs)
+  * Approving the operating plans of, and set priorities for the various software PITs 
+  * Monitoring and overseeing the progress of the software PITs 
+  * Helping obtain sponsorship and resourcing for the software PITs 
+  * Conducting ongoing policy oversight, resource and process management 
+  * Negotiating with higher levels of management and corporate planning organisations 
+  * Integration and consensus building among different software PITs 
 
 ==== MSG Lead ====
 
-{{page>contentsnippets:roles:msg_lead&noheader}}
-
 ==== MSG Member ====
-
-{{page>contentsnippets:roles:msg_member&noheader}}
-
 

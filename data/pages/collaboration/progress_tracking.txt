@@ -1,6 +1,6 @@
 ===== Progress Tracking =====
 
-The progress tracking function enables the different group within the SPII to:
+The progress tracking function enables the different group within the PII to:
   * See who is working on what.
   * Useful during the SEPG Meeting to discuss future plans.
   * Assign tasks to each other.
@@ -12,7 +12,7 @@ As the improvements can jump from any status to any other status (they should fo
 
 Ideally the improvements are entered into the progress tracking tool directly so that the information in the progress tracking function is allways up to date without the need for synchronisation.
 
-Following the normal [[:spii:processes|SPII Process]], there are the following status:
+Following the normal [[:processes:processes|PII Process]], there are the following status:
   * New
   * Screened
   * Backlog
@@ -32,11 +32,6 @@ There is a risk of PITs taking too many improvements at once. It would be great 
 
 As the PIT members are volunteering and doing improvements alongside their normal work, they cannot commit to deadlines. Because of this, any tasks that are in progress cannot be held to deadlines themselves as well. It's all on best-effort basis.
 
-== Read on: ==
-
-[[:spii:reporting|Reporting]]
-
-== References: ==
 
 
 

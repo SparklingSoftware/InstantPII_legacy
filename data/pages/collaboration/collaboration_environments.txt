@@ -2,11 +2,9 @@
 ===== Collaboration environments in PII =====
 
 There seem to be three different types of workspaces for people to collaborate in:
-  - [[:pii:collaboration_environments#Informal | An Informal, easy to use, low threshold environment to do the work.]]
-  - [[:pii:collaboration_environments#historical | A formal, Historic environment that captures the history of the decisions made. ]]
-  - [[:pii:collaboration_environments#latest | The formal “Knowledge base” where the latest agreed artefacts are available to browse. ]]
-
-{{:spii_collaboration_environments.jpg?600|}}
+  - [[:collaboration:collaboration_environments#Informal | An Informal, easy to use, low threshold environment to do the work.]]
+  - [[:collaboration:collaboration_environments#historical | A formal, Historic environment that captures the history of the decisions made. ]]
+  - [[:collaboration:collaboration_environments#latest | The formal “Knowledge base” where the latest agreed artefacts are available to browse. ]]
 
 ===== Informal ====
 
@@ -35,10 +33,6 @@ Blog posts are by it's very nature time stamped and there is much technology ava
 
 Every group in the PII should have a blog and would need to be encouraged to keep it up to date. 
 
-The [[:share:architecture:share_architecture#PII Configuration|PII Configuration]] allows the [[:general:roles#PII Admin]] to specify which blogs are available withing the SPII. The [[:share:architecture:share_architecture#spii automation|SPII Automation]] will use that list to:
-  * Publish an overview of evailable blogs on the [[:pii:contacts|Contacts page]].
-  * Collect a monthly digest across the PII and send to an email distribution list. (Depending on the organisation, this can be the entire organisation or on a subscription basis)
-
 ==== Latest ====
 
 This is obviously what it’s all about: A single place where people can find the current standards, job aids, Guidelines, etc.
@@ -48,6 +42,4 @@ It would be great to be able to use the blog posts as the source to generate the
 This environment also includes a WIKI style publishing ground for people to publish “Random” pieces of knowledge. Personal blogs for employees can also be an option. The idea is to encourage people to share their knowledge. If they have been struggling with something, chances are that someone will run into the same issue(s) as well. Everyone in the organization should be encouraged to contribute, even (or actually especially), in small quantities. 
 
 Key to this is that the information can be found again and that the authors get rewarded. A ranking system found in most Web2.0 or Enterprise 2.0 systems can cater for this. The employee performance review could include a line item to state the peer raking of the employees contributed content. 
-
-Please refer to [[:share:introduction|"Share"]] for more information, including an [[:share:architecture:standards_library|example standards library]] can be found here.
 
