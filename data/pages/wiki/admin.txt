@@ -3,7 +3,9 @@
 
 [[:wiki:orphans|Orphaned pages]]
 [[:wiki:pages wanted|Pages Wanted]]
-[[:wiki:revisions|Pgaes up for revision]]
+[[:wiki:revisions|Paes up for revision]]
 [[:wiki:statistics|Usage Statistics]]
+[[:wiki:todo|Todo]]
+
 
 

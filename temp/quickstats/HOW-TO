@@ -1,0 +1,130 @@
+Quickstats will give you the web traffic for modest sites.  It is not yet optimized for high volume traffic.
+Its advantage for many users is that is does not require an sql database.  
+
+This plugin has a page on Dokuwiki's web site which is lkept up-to-date:
+    http://www.dokuwiki.org/plugin:quickstats
+
+Quickstats uses the following modules:
+from Gary Keith
+http://browsers.garykeith.com/downloads.asp
+http://browsers.garykeith.com/stream.asp?PHP_BrowsCapINI
+
+from Alexandre Alapetite 
+http://alexandre.alapetite.fr/doc-alex/php-local-browscap/index.en.html
+http://alexandre.alapetite.fr/doc-alex/php-local-browscap/php-local-browscap.php.txt
+
+from Maxmind: http://www.maxmind.com/app/geolitecity
+geoipcity.inc
+GeoLiteCity.dat
+
+from http://www.geoplugin.com/
+geoPlugin
+
+Quickstats uses either geoPlugin or GeoLiteCity.dat to identify the location of IP addresses.
+geoPlugin is a free web-based service, while Maxmind's GeoLiteCity.dat installs on your
+server.  Quickstats defaults to geoPlugin, which means that quickstats is ready to use
+upon installation into the Dokuwiki plugins directory.  GeoLiteCity must be installed
+in a directory on your server.  See "Configuration Settings" below for how to choose
+between these two services.
+
+There are benefits and downsides to both.  With GeoLiteCity, quickstats always
+has instant and secure access the the location data which it needs.
+However, it is recommended that you re-install updated copies
+every 6 weeks, in order to keep current with changing IP data.  On Linux servers
+this is simple enough to do with a cron job.  geoPlugin, on the other hand, is
+always current and does not have to be installed on your server. Its data is retrieved
+via an http access.  Responses from geoplugin.com tend to be fast, but there is always
+the question of delay and processing time.
+
+--------------------------------------------------
+GEOLITECITY
+
+GeoLiteCity.dat must be downloaded from Maxmind and stored in /usr/local/share/GeoIP/
+It is available as a tgz file:
+
+   http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+
+Unpack this file and place it in either in /usr/local/share/GeoIP  or quickstats/GEOIP.
+The default directory for GeoLiteCity.dat is /usr/local/share/GeoIP which you will
+find assigned in the Configuration Manager in the 'geop_dir' setting.  If you place it
+in quickstats/GEOIP, then you must check off the checkbox for 'geoip_local'.
+
+You do not have to put GeoLiteCity.dat in either of the two directories mentioned above.
+You can install it anywhere you choose; just replace the default path in 'geoip_dir' with
+the new one and make sure that 'geoip_local' is unchecked.
+
+For additional installation instructions see http://www.maxmind.com/app/installation?city=1.
+
+
+
+---------------------------------------
+Quickstats outputs its statistics to a Dokuwiki page using the following syntaxes:
+~~NOCACHE~~
+
+Syntax:
+~~QUICKSTATS:<month_year>&<category><;;depth>~~
+The depth parameter limits the number of rows of output to depth number.
+
+Stats for current month
+~~QUICKSTATS:~~  
+~~QUICKSTATS:basics<;;depth>~~  
+~~QUICKSTATS:ip<;;depth>~~
+~~QUICKSTATS:misc<;;depth>~~
+~~QUICKSTATS:countries<;;depth>~~
+~~QUICKSTATS:pages<;;depth>~~
+~~QUICKSTATS:ua<;;depth>~~
+
+Stats for a previous month
+~~QUICKSTATS:<month_year><;;depth>~~
+~~QUICKSTATS:<month_year>&basics<;;depth>~~
+~~QUICKSTATS:<month_year>&ip<;;depth>~~
+~~QUICKSTATS:<month_year>&misc<;;depth>~~
+~~QUICKSTATS:<month_year>&countries<;;depth>~~
+~~QUICKSTATS:<month_year>&pages<;;depth>~~
+~~QUICKSTATS:<month_year>&ua<;;depth>~~
+
+
+The months are numbered from 1 to 12
+1_2012 = January 2012
+12_2011 = December 2011
+
+~~QUICKSTATS:~~ is a snynonym for ~~QUICKSTATS:basics~~   
+~~QUICKSTATS:<month_year>~~ is a synonym for ~~QUICKSTATS:<month_year>&basics~~
+    Example: 
+     ~~QUICKSTATS:1_2011~~
+     outputs 'basics' for January 2011
+
+Output for diffferent paramaters
+basics:
+  Operating systems
+  Browsers
+  Countries
+misc:
+  Operating systems
+  Browsers
+countries:
+  Countries
+ip:
+ IP addresses
+ua:
+ IP address
+ browsers/user agents  
+ countries
+      
+Configuration Settings
+    There are two settings
+      1. excludes:  excludes IP addresses from stats, for instance if you don't want your own accesses to your site counted in the stats
+      2. aborts:     prevents IPs from accessing the site (for nuisance and spam accesses).
+      3. geoip_local: if checked off Maxmind GeoLiteCity.dat must be installed in:  lib/plugins/quickstats/GEOIP'
+      4. geoip_dir:   if geoip_local is not checked off quickstats will look in this directory for GeoLiteCity.dat (it defaults to /usr/local/share/GeoIP/)
+      5. geoplugin: if this option is checked the geoPlugin will be used for IP geo-locating (defaults to true); with this set to true GeoLIteCity.dat is not needed
+      6. long_names: set maximum number of characters to output when oututting long names.  Default is 30,
+         when set to -1 maximum is unlimited
+      7. show_date: Show date of last page access with mouseover
+      8. show_country: In IP table, show country of IP address with mouseover.  This will work only when
+       "geoplugin" is set to false
+     9. sorttable_ns: Comma separated list of whole or partial namespaces and
+        file names which require sortable output         
+            
+There is also an admin panel which has various options for making detailed queries.
+       

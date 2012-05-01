@@ -47,7 +47,7 @@ Please find more information (in the suggested order of reading):
   * [[:collaboration:collaboration|How the collaboration in the PII works]]
   * [[:roles:roles|More details about the roles in the PII]]
   * [[:processes:processes|Drill into the processes]]
-  * (Anti) patterns
+  * [[:collaboration:patterns|(Anti) patterns]]
 
 As everything (well... Most of it :-) The rest is common sense and innovative thinking!) is backed up by research the [[:research:research|Research]] area lists a selection of most relevant academic artefacts. 
 

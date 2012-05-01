@@ -7,6 +7,8 @@
   * [[:goals and benefits:goals and benefits#Aligns initiatives so that they amplify each other|Aligns initiatives so that they amplify each other]]
   * [[:goals and benefits:goals and benefits#Return on investment|Focus on what matters to your customers]]
   * [[:goals and benefits:goals and benefits#Increased Engagement and Enablement|Increased Engagement and Enablement, the most important metrics for employee performance]]
+  * [[:goals and benefits:#resillant to change|resilliant to organisational change]]
+  * [[:goals and benefits:#non funded|Non funded creates a natural balance between effort spent on improvements]]
 
 === Increase ROI of Process Improvement efforts ===
 

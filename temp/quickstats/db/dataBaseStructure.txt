@@ -1,0 +1,130 @@
+ip.ser
+[uniq] > count
+[IP]=>Accesses
+
+misc_data.ser
+ [country] => Array       (   [CountryCode] => Accesses, . . .),
+ [browser] => Array      (   [BrowserName] => Accesses, . . .),
+ [platform] => Array     (   [PlatformID] => Accesses, . . . )
+ [version] => Array      (   [BrowserNameAndVersionNumber] => Accesses, . . . )
+ 
+pages.ser
+[site_total] => TotalAccesses
+[page] => Array  (  [<namespace:>page_name] => Accesses, . . .),
+[date] => Array(     [md5(<namespace:>page_name)] => timestamp)
+
+ua.ser 
+[IP] => Array
+        (
+            [0] => CountryCode,
+            [1] => BrowserVersion,  [2] => BrowserVersion, [3] => BrowserVersion, . . . )
+	   )		
+
+
+qs_data.ser
+Array 
+(
+    [words] => Array 
+                    (
+                        [<word>] => Array 
+                                (
+                                    [count] => <n>
+                                    [ip] => Array 
+                                        (
+                                          [<ip>] => [<count>] 
+                                        )
+                                )
+                        [<word>] => Array 
+                                (
+                                )
+                    )
+    [ns]=> Array 
+                    (
+                        [<ns>] => Array 
+                                (
+                                    [count] => <n>
+                                    [ip] => Array 
+                                        (
+                                          [<ip>] => [<count>] 
+                                        )
+                                ) 
+                        [<ns>] => Array
+                                (
+                                )   
+                    )
+     [extern] => Array
+            (
+                [name] => Array
+                    (
+                        [<name>] => Array
+                            (
+                                [count] => <n>
+                               [values] => Array (
+                                      [<ip>] => Array (<val>, <val>, . .),   /* value is only saved once , i.e value_1, no matter how many times it occurs */
+                                      [<ip>] => Array (<val>, <val>, . .),
+                                 )
+                                [<ip>] => <n>  /* number of instances where a value occurs, so value_1 shows up here as occuring <n> times */
+                                [<ip] => <n>
+                                  .
+                                  .
+                                  .
+                            )
+
+                        [<name>] => Array
+                            (
+
+                            )
+                    )
+
+                [val] => Array
+                    (
+                        [<val>] => Array
+                            (
+                                [count] => <n>
+                                [<ip>] => <n>
+                                [<ip] => <n>
+                                  .
+                                  .
+                                  .
+                            )
+
+                        [<val>] => Array
+                            (
+
+                            )
+                    )
+            )
+)
+       
+page_users.ser 
+/* assoc array intermixed md5(page_id)  and ip keys */
+[md5(page_id)] => Array
+                        (
+                           ip,
+                           ip . . .         
+                        ),
+[md5(page_id)] => Array
+                        (
+                        ),
+[ip] => Array
+               (
+                   $ID,
+                   $ID . . .
+               ),              
+[ip] => Array
+               (     
+               ),                              
+ [md5(page_id)] => Array
+                        (
+                        )         
+[ip] => Array
+               (
+                   $ID,
+                   $ID . . .
+               ),                   
+
+page_totals.ser
+[month_year]=>page_totals    //updated with each new page addition from pages.ser=>site_total
+     .
+     .
+     

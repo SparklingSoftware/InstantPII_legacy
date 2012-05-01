@@ -1,4 +1,6 @@
 
+~~NOCACHE~~
+
 ===== The life of an Improvement Proposal (IP) =====
 
 The process below describes the life of an improvement. Please use the process as a guide as it's more important to focus on outcomes than on following the process to the letter. 
