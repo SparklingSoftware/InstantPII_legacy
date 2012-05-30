@@ -1,0 +1,4 @@
+As one decisions builds on top of each other, starting with an instable base is setting yourself up for failure. Like building a house of cards, only put the next layer up on a firm base.
+
+Keeping the history of decisions made is a big part of this. To prevent teams to go back to earlier decisions, it's important for people to be able to go back and look what led to the decisions. This approach also creates an open environment where everyone can challenge all decisions. 
+

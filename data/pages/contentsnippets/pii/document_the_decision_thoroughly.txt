@@ -1,0 +1,14 @@
+
+Let’s face it: There are not a lot of people who like to write documentation in the IT industry. Let alone write standards. So documenting the rationale behind standards is probably way down on the list of priorities.
+
+However, this is probably the most important thing in process improvements!
+
+The most likely reason why people are not following standards is that they either don’t know that they exist (Cannot find the current one between all the stale ones in the intranet, multiple documents, very different content, same name and version, do these situations sound familiar? ) or the end user doesn’t agree with the standard. 
+
+The first reason can be solved by following the recommendations in Chapter 11, “Standards Library” and training people in how to find the library. Preferably everyone who joins the organisation will be enrolled into the training and perhaps a mandatory periodic refresher?
+
+The second is that the user of the standards doesn’t agree with the standard. This can be one of the following reasons:
+  * The user doesn’t know all the angles that were considered when creating the standard.
+  * The PIT that created the standard missed an argument that would have led to a different decision.
+  * The user has a personal preference that differs from the consensus across the team that created the standard.
+

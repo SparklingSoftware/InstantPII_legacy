@@ -1,0 +1,24 @@
+~~NOCACHE~~
+<nodisp>
+
+<spii_meta>
+  <hierarchy view="SPII" parent=":spii:goals_and_benefits" />   
+  <hierarchy view="Share" parent=":share:introduction" />  
+</spii_meta>
+
+</nodisp>
+
+===== TODO =====
+
+==== Install/Build plugins: ====
+
+  * Broken link checking, including # tags to locations in pages
+  * Find plugin that finds a pecified text in all wiki pages and builds a table from the result with the columns: "Page, line nr, text".
+    This allows the user to search for all lines containing the word "TODO" for instance.
+  * Revision dates plugin. A plugin that builds a table of all wiki pages that have are upcoming and overdue for revisions.
+
+==== todo list ====
+
+  * PDF << TODO: Does that work >>
+
+

@@ -1,0 +1,19 @@
+
+===== Software Process Improvement Infrastructure Overview =====
+
+A Software Process Improvement Infrastructure (SPII) is everything that enables organisations to efficiently improve their software processes.
+
+Process Improvements are not just documents on a portal in the organisation. We are talking about changing the way people work (Which happens to be described by documentation). There is more on this later.
+
+As you can understand from the above definition, the scope is very wide and that makes it harder to explain what this is about. It involves the organisation structure to formally endorse the improvements, the process that this organisation will follow, the tools to support the process and other collaboration tools, reporting, etc. But bear with me; it will all become clear in couple of minutes.
+
+**THE most important goal is to get people to communicate to each other to achieve agreements.**
+
+Formal agreements that are turned into standards and therefore governed by some authority or minor agreements that only applies to two projects that just happen to use the same technology. 
+
+That really doesn’t matter is it drives the same correct behaviour: Sharing knowledge. Because the 80-20 rule applies to big and small things in life, there is a big chance that the small agreement just mentioned would, without knowing, also apply to many other projects as there might be a pattern behind it. As long as people are achieving agreements, the patterns will start to emerge and standards will follow out of that.
+
+This leads to another interesting topic: [[General:Who cares about standards|Who cares about standards??]]
+
+
+

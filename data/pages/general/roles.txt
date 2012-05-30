@@ -1,0 +1,66 @@
+ 
+===== Roles within the PII =====
+
+
+==== PIT (Group) ====
+
+{{page>contentsnippets:roles:PIT&noheader}}
+
+
+==== PIT Lead ====
+
+
+
+==== PIT Member ====
+
+
+
+==== Practitioner ====
+
+{{page>contentsnippets:roles:practitioner&noheader}}
+
+==== SEPG (Group) ====
+
+{{page>contentsnippets:roles:sepg&noheader}}
+
+==== SEPG Assistant ====
+
+{{page>contentsnippets:roles:sepg_assistant&noheader}}
+
+==== SEPG Lead ====
+
+{{page>contentsnippets:roles:sepg_lead&noheader}}
+
+==== SEPG Member ====
+
+{{page>contentsnippets:roles:sepg_member&noheader}}
+
+==== PII Admin ====
+
+{{page>contentsnippets:roles:pii_admin&noheader}}
+
+==== TWG (Group) ====
+
+{{page>contentsnippets:roles:twg&noheader}}
+
+==== TWG Lead ====
+
+{{page>contentsnippets:roles:twg_lead&noheader}}
+
+==== TWG Member ====
+
+{{page>contentsnippets:roles:twg_member&noheader}}
+
+==== MSG (Group) ====
+
+{{page>contentsnippets:roles:msg&noheader}}
+
+==== MSG Lead ====
+
+{{page>contentsnippets:roles:msg_lead&noheader}}
+
+==== MSG Member ====
+
+{{page>contentsnippets:roles:msg_member&noheader}}
+
+

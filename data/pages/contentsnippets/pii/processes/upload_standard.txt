@@ -1,0 +1,5 @@
+
+The last step is to publish the new artefacts on the [[:general:glossary#standards library|Standards Library]]. The “SPII Admin” is responsible for this. 
+
+<< TODO: finish publishing standards process >>
+
