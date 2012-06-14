@@ -1,10 +1,10 @@
 
 <nodisp>
 
-   <spii_meta>
-      <title>Tools evaluation process</title>
-      <hierarchy view="Process" parent="" />
-   </spii_meta>
+<pii_meta>
+  <title>Tools evaluation process</title>
+  <hierarchy view="Process" parent="" />
+</pii_meta>
 
 </nodisp>
 
@@ -15,9 +15,20 @@
 
 The majority of the IPs are actually around tooling. This makes sense, as these are close and dear to people’s heart. Furthermore everyone has their own preferences and technology keeps moving, so it’s an ever changing arena.
 These evaluations are a three step process:
-  - [[pii:processes:evaluate_a_tool#requirements|Requirements]]
-  - [[pii:processes:evaluate_a_tool#tool evaluation|Tool evaluation]]
-  - [[pii:processes:evaluate_a_tool#advice|Advice to the SEPG]]
+
+<ditaa>
+
+     +--------------+     +--------------+     +--------+
+     |              |     |              |     |        |
+---->| Requirements |---->| Evaluation   |---->| Advice |
+     |              |     |              |     |        |
+     +--------------+     +--------------+     +--------+
+   
+</ditaa>
+
+  - [[:collaboration:execution patterns:evaluate_a_tool#requirements|Requirements]]
+  - [[:collaboration:execution patterns:evaluate_a_tool#tool evaluation|Tool evaluation]]
+  - [[:collaboration:execution patterns:evaluate_a_tool#advice|Advice to the SEPG]]
 
 ==== Requirements ====
 
@@ -54,9 +65,4 @@ And although there is always some form of politics involved in these decisions, 
 
 The advice gets signed off by all the participants, the PIT and the SEPG and happy days! A new standard has been created!
 (Don’t forget to include the adoption and the revision plans! See here for more details…)
-
-Read on:
-
-
-References:
 

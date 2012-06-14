@@ -26,3 +26,5 @@ data/_dummy
 data/deleted.files
 data/security.png
 data/security.xcf
+temp/
+web.config

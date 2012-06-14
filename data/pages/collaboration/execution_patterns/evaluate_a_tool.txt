@@ -18,11 +18,11 @@ These evaluations are a three step process:
 
 <ditaa>
 
-     +--------------+     +--------------+     +--------+
-     |              |     |              |     |        |
----->| Requirements |---->| Evaluation   |---->| Advice |
-     |              |     |              |     |        |
-     +--------------+     +--------------+     +--------+
+     +--------------+
+     |              |
+---->| something    |
+     |              |
+     +--------------+
    
 </ditaa>
 
